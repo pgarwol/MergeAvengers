@@ -1,86 +1,86 @@
 ,speaker,line
 0,Announcer,Report to your stations immediately
-1,Announcer, This is not a drill
-2,Announcer, We are under attack
-3,Announcer, We are under attack
+1,Announcer,This is not a drill
+2,Announcer,We are under attack
+3,Announcer,We are under attack
 4,Tony Stark,Shit
 5,Steve Rogers,Language
-6,Steve Rogers," JARVIS, what's the view from upstairs"
+6,Steve Rogers,"JARVIS, what's the view from upstairs"
 7,JARVIS,The central building is protected by some kind of energy shield
-8,JARVIS, Strucker's technology is well beyond any other HYDRA base we've taken
+8,JARVIS,Strucker's technology is well beyond any other HYDRA base we've taken
 9,Thor,Loki's scepter must be here
-10,Thor, Strucker couldn't mount this defense without it
-11,Thor, At long last
+10,Thor,Strucker couldn't mount this defense without it
+11,Thor,At long last
 12,Natasha Romanoff,"â€śAt long lastâ€ť is lasting a little long, boys"
 13,Clint Barton,Yeah
-14,Clint Barton, I think we lost the element of surprise
+14,Clint Barton,I think we lost the element of surprise
 15,Tony Stark,Wait a second
-16,Tony Stark, No one else is going to deal with the fact that Cap just said language
+16,Tony Stark,No one else is going to deal with the fact that Cap just said language
 17,Steve Rogers,I know
-18,Steve Rogers,  It just slipped out
+18,Steve Rogers,It just slipped out
 19,Strucker,Who gave the order to attack
 20,Fortress Soldier,"Herr Strucker, it's the Avengers"
 21,Other Fortress Soldier,"They landed in the far woods, the perimeter guard panicked"
 22,Strucker,They have to be after the scepter
-23,Strucker,  Can we hold them
+23,Strucker,Can we hold them
 24,Fortress Soldier,Theyâ€™re the Avengers
 25,Strucker,Deploy the rest of the tanks
 26,Fortress Soldier,"Yes, sir"
 27,Strucker,Concentrate fire on the weak ones
-28,Strucker, A hit can make them close ranks
-29,Strucker,  Everything we've accomplished
-30,Strucker, But we're on the verge of our greatest breakthrough
+28,Strucker,A hit can make them close ranks
+29,Strucker,Everything we've accomplished
+30,Strucker,But we're on the verge of our greatest breakthrough
 31,Dr. List,Then let's show them what we've accomplished
-32,Dr. List, Send out the twins
+32,Dr. List,Send out the twins
 33,Strucker,It's too soon
 34,Dr. List,It's what they signed up for
 35,Strucker,My men can hold them
 36,Jarvis,"Sir, the city is taking fire"
 37,Tony Stark,"Well, we know Strucker's not going to worry about civilian casualties"
-38,Tony Stark, Send in the Iron Legion
+38,Tony Stark,Send in the Iron Legion
 39,Iron Legion,This quadrant is unsafe
-40,Iron Legion, Please back away
-41,Iron Legion, We are here to help
-42,Iron Legion, This quadrant is unsafe
-43,Iron Legion, Please back away
-44,Iron Legion, Please back away
-45,Iron Legion, We wish to avoid collateral damage and will inform you when this current conflict is resolved
-46,Iron Legion, We are here to help
-47,Iron Legion,  We are here to help
+40,Iron Legion,Please back away
+41,Iron Legion,We are here to help
+42,Iron Legion,This quadrant is unsafe
+43,Iron Legion,Please back away
+44,Iron Legion,Please back away
+45,Iron Legion,We wish to avoid collateral damage and will inform you when this current conflict is resolved
+46,Iron Legion,We are here to help
+47,Iron Legion,We are here to help
 48,Strucker,We will not yield
-49,Strucker, The Americans sent their circus freaks to test us
-50,Strucker, We will send them back in bags
-51,Strucker, No surrender
+49,Strucker,The Americans sent their circus freaks to test us
+50,Strucker,We will send them back in bags
+51,Strucker,No surrender
 52,Soldiers,No surrender
 53,Strucker,I am going to surrender
-54,Strucker, You will delete everything
+54,Strucker,You will delete everything
 55,Dr. List,The twins
 56,Dr. List,"No, no"
-57,Dr. List, I mean
-58,Dr. List,  Twins
+57,Dr. List,I mean
+58,Dr. List,Twins
 59,Pietro Maximoff,You didn't see that coming
 60,Natasha Romanoff,Clint
 61,Steve Rogers,We have an enhanced in the field
 62,Natasha Romanoff,Clint's hit
-63,Natasha Romanoff,  Somebody want to deal with that bunker
-64,Natasha Romanoff,  Thank you
+63,Natasha Romanoff,Somebody want to deal with that bunker
+64,Natasha Romanoff,Thank you
 65,Steve Rogers,"Stark, we really need to get inside"
 66,Tony Stark,I'm closing in
-67,Tony Stark," JARVIS, am I"
+67,Tony Stark,"JARVIS, am I"
 68,Tony Stark,closing in
-69,Tony Stark, Do you see a power source for that shield
+69,Tony Stark,Do you see a power source for that shield
 70,JARVIS,There's a particle wave below the north tower
 71,Tony Stark,"Great, I wanna poke it with something"
-72,Tony Stark,"  Drawbridge is down, people"
+72,Tony Stark,"Drawbridge is down, people"
 73,Thor,The enhanced
 74,Steve Rogers,He's a blur
-75,Steve Rogers," All the new player's we've faced, I've never seen this"
-76,Steve Rogers," In fact, I still haven't"
+75,Steve Rogers,"All the new player's we've faced, I've never seen this"
+76,Steve Rogers,"In fact, I still haven't"
 77,Natasha Romanoff,"Clint's hit pretty bad, guys"
-78,Natasha Romanoff, We're gonna need evac
+78,Natasha Romanoff,We're gonna need evac
 79,Thor,I can get Barton to the jet
-80,Thor, The sooner we're gone the better
-81,Thor, You and Stark secure the scepter
+80,Thor,The sooner we're gone the better
+81,Thor,You and Stark secure the scepter
 82,Steve Rogers,Copy that
 83,Thor,It looks like they're lining up
 84,Steve Rogers,"Well, they're excited"
@@ -88,156 +88,156 @@
 86,Tony Stark,"And for gosh sake, watch your language"
 87,Steve Rogers,That's not going away anytime soon
 88,Tony Stark,"Guys, stop, we gotta talk this through"
-89,Tony Stark,  It was a good talk
+89,Tony Stark,It was a good talk
 90,Fortress Soldier,No it wasn't
 91,Tony Stark,Sentry mode
-92,Tony Stark,"  Okay, JARVIS"
-93,Tony Stark, You know I want it all
-94,Tony Stark, Make sure you copy Hill at HQ
+92,Tony Stark,"Okay, JARVIS"
+93,Tony Stark,You know I want it all
+94,Tony Stark,Make sure you copy Hill at HQ
 95,Natasha Romanoff,We're locked down out here
 96,Steve Rogers,"Then get to Banner, time for a lullaby"
 97,Tony Stark,I know you're hiding more than files
-98,Tony Stark," Hey, J, give me an IR scan of the room, real quick"
+98,Tony Stark,"Hey, J, give me an IR scan of the room, real quick"
 99,JARVIS,The wall to your left
 100,JARVIS,I'm reading steel reinforcement
-101,JARVIS, and an air current
+101,JARVIS,and an air current
 102,Tony Stark,"Please be a secret door, please be a secret door, please be a secret door"
-103,Tony Stark,  Yay
+103,Tony Stark,Yay
 104,Natasha Romanoff,"Hey, big guy"
-105,Natasha Romanoff, The sun's getting real low
+105,Natasha Romanoff,The sun's getting real low
 106,Steve Rogers,Baron Strucker
-107,Steve Rogers, Hydra's number one thug
+107,Steve Rogers,Hydra's number one thug
 108,Strucker,"Technically, I'm a thug for SHIELD"
 109,Steve Rogers,Well then technically you're unemployed
-110,Steve Rogers, Where's Loki's scepter
+110,Steve Rogers,Where's Loki's scepter
 111,Strucker,"Don't worry, I know when I'm beat"
-112,Strucker," You'll mention how I cooperated, I hope"
+112,Strucker,"You'll mention how I cooperated, I hope"
 113,Steve Rogers,I'll put it right under illegal human experimentation
-114,Steve Rogers,  How many are there
-115,Steve Rogers," Wanda knocks Steve down using her telekinetic powers, then quickly leaves] We have a second enhanced"
-116,Steve Rogers, Female
-117,Steve Rogers, Do not engage
+114,Steve Rogers,How many are there
+115,Steve Rogers,"Wanda knocks Steve down using her telekinetic powers, then quickly leaves] We have a second enhanced"
+116,Steve Rogers,Female
+117,Steve Rogers,Do not engage
 118,Steve Rogers,"Guys, I got Strucker"
 119,Tony Stark,"Yeah, I got"
-120,Tony Stark, something bigger
-121,Tony Stark,"  Thor, I got eyes on the prize"
+120,Tony Stark,something bigger
+121,Tony Stark,"Thor, I got eyes on the prize"
 122,Steve Rogers,You could've saved us
-123,Steve Rogers,  Why didn't you do more
+123,Steve Rogers,Why didn't you do more
 124,Pietro Maximoff,We're just gonna let them take it
 125,Natasha Romanoff,"Hey, the lullaby worked better than ever"
 126,Bruce Banner,Just wasn't expecting the Code Green
 127,Natasha Romanoff,"If you hadn't been there, there would've been double the casualties"
-128,Natasha Romanoff, My best friend would've been a treasured memory
+128,Natasha Romanoff,My best friend would've been a treasured memory
 129,Bruce Banner,"You know, sometimes exactly what I want to hear isn't exactly what I want to hear"
 130,Natasha Romanoff,How long before you trust me
 131,Bruce Banner,It's not you I don't trust
 132,Natasha Romanoff,"Thor, report on the Hulk"
 133,Thor,The gates of Hel are filled with the screams of his victims
-134,Thor,"  Uh, but, not the screams of the dead, of course"
-135,Thor," No no, uh"
+134,Thor,"Uh, but, not the screams of the dead, of course"
+135,Thor,"No no, uh"
 136,Thor,"wounded screams, mainly whimpering, a great deal of complaining and tales of sprained deltoids and, and uh"
-137,Thor, and gout
+137,Thor,and gout
 138,Tony Stark,"Hey Banner, Dr  Cho's on her way in from Seoul, is it okay if she sets up in your lab"
 139,Bruce Banner,"Uh, yeah, she knows her way around"
 140,Tony Stark,Thanks
-141,Tony Stark,"  Tell her to prep everything, Barton's gonna need the full treatment"
+141,Tony Stark,"Tell her to prep everything, Barton's gonna need the full treatment"
 142,JARVIS,Very good sir
 143,Tony Stark,"JARVIS, take the wheel"
 144,JARVIS,"Yes, sir"
-145,JARVIS, Approach vector is locked
+145,JARVIS,Approach vector is locked
 146,Tony Stark,"It feels good, yeah"
-147,Tony Stark," I mean, you've been after this thing since SHIELD collapsed"
-148,Tony Stark," Not that I haven't enjoyed our little raiding parties, but"
+147,Tony Stark,"I mean, you've been after this thing since SHIELD collapsed"
+148,Tony Stark,"Not that I haven't enjoyed our little raiding parties, but"
 149,Thor,"No, but this"
-150,Thor, this brings it to a close
+150,Thor,this brings it to a close
 151,Steve Rogers,As soon as we find out what else this has been used for
-152,Steve Rogers, I don't just mean weapons
-153,Steve Rogers, Since when is Strucker capable of human enhancement
+152,Steve Rogers,I don't just mean weapons
+153,Steve Rogers,Since when is Strucker capable of human enhancement
 154,Tony Stark,Banner and I'll give it the once before it goes back to Asgard
-155,Tony Stark, Is that cool with you
-156,Tony Stark,"  I mean, just a few days until the farewell party"
-157,Tony Stark, You're staying right
+155,Tony Stark,Is that cool with you
+156,Tony Stark,"I mean, just a few days until the farewell party"
+157,Tony Stark,You're staying right
 158,Thor,"Yes, yes, of course"
-159,Thor, A victory should be honored with revels
+159,Thor,A victory should be honored with revels
 160,Tony Stark,Yeah
-161,Tony Stark, Who doesn't love revels
-162,Tony Stark, Captain
+161,Tony Stark,Who doesn't love revels
+162,Tony Stark,Captain
 163,Steve Rogers,"Hopefully this puts an end to the Chitauri and HYDRA, so"
-164,Steve Rogers," Yes, revels"
+164,Steve Rogers,"Yes, revels"
 165,Maria Hill,"Lab's all set up, boss"
 166,Tony Stark,"Uh, actually, he's the boss"
-167,Tony Stark," I just pay for everything, and design everything and make everyone look cooler"
+167,Tony Stark,"I just pay for everything, and design everything and make everyone look cooler"
 168,Steve Rogers,What's the word on Strucker
 169,Maria Hill,NATO's got him
 170,Steve Rogers,The two enhanced
 171,Maria Hill,Wanda and Pietro Maximoff
-172,Maria Hill, Twins
-173,Maria Hill, Orphaned at ten when a shell collapsed their apartment building
-174,Maria Hill, Sokovia's had a rough history
-175,Maria Hill, It's nowhere special but it's on the way to everywhere special
+172,Maria Hill,Twins
+173,Maria Hill,Orphaned at ten when a shell collapsed their apartment building
+174,Maria Hill,Sokovia's had a rough history
+175,Maria Hill,It's nowhere special but it's on the way to everywhere special
 176,Steve Rogers,Their abilities
 177,Maria Hill,He's got increased metabolism and improved thermal homeostasis
-178,Maria Hill," Her thing is neural electric interfacing, telekinesis, mental manipulation"
-179,Maria Hill,  He's fast and she's weird
+178,Maria Hill,"Her thing is neural electric interfacing, telekinesis, mental manipulation"
+179,Maria Hill,He's fast and she's weird
 180,Steve Rogers,"Well, they're going to show up again"
 181,Maria Hill,Agreed
-182,Maria Hill, File says they volunteered for Strucker's experiments
-183,Maria Hill, It's nuts
+182,Maria Hill,File says they volunteered for Strucker's experiments
+183,Maria Hill,It's nuts
 184,Steve Rogers,Right
-185,Steve Rogers, What kind of monster would let a German scientist experiment on them to protect their country
+185,Steve Rogers,What kind of monster would let a German scientist experiment on them to protect their country
 186,Maria Hill,"We're not at war, Captain"
 187,Steve Rogers,They are
 188,Bruce Banner,How's he doing
 189,Tony Stark,"Oh, unfortunately, he's still Barton"
 190,Bruce Banner,That's terrible
 191,Tony Stark,He's fine
-192,Tony Stark, He's thirsty
-193,Tony Stark,  Alright
-194,Tony Stark," Look alive, JARVIS"
-195,Tony Stark, It's play time
-196,Tony Stark, We've only got a couple days with this joystick so let's make the most of it
-197,Tony Stark, Update me on the structural and compositional analysis
+192,Tony Stark,He's thirsty
+193,Tony Stark,Alright
+194,Tony Stark,"Look alive, JARVIS"
+195,Tony Stark,It's play time
+196,Tony Stark,We've only got a couple days with this joystick so let's make the most of it
+197,Tony Stark,Update me on the structural and compositional analysis
 198,JARVIS,The scepter is alien
-199,JARVIS, There are elements I can't quantify
+199,JARVIS,There are elements I can't quantify
 200,Tony Stark,So there's elements you can
 201,JARVIS,The jewel appears to be a protective housing for something inside
-202,JARVIS, Something powerful
+202,JARVIS,Something powerful
 203,Tony Stark,Like a reactor
 204,JARVIS,Like a computer
-205,JARVIS, I believe I'm deciphering code
+205,JARVIS,I believe I'm deciphering code
 206,Natasha Romanoff,You sure he's going to be okay
-207,Natasha Romanoff, Pretending to need this guy really brings the team together
+207,Natasha Romanoff,Pretending to need this guy really brings the team together
 208,Dr. Helen Cho,There's no possibility of deterioration
-209,Dr. Helen Cho, The nanomolecular functionality is instantaneous
-210,Dr. Helen Cho, His cells don't know they're bonding with simulacrum
+209,Dr. Helen Cho,The nanomolecular functionality is instantaneous
+210,Dr. Helen Cho,His cells don't know they're bonding with simulacrum
 211,Bruce Banner,She's creating tissue
 212,Dr. Helen Cho,"If you brought him to my lab, the regeneration Cradle could do this in twenty minutes"
 213,Tony Stark,"Oh, he's flatlining"
-214,Tony Stark, Call it
-215,Tony Stark, Time
+214,Tony Stark,Call it
+215,Tony Stark,Time
 216,Clint Barton,"No, no, no"
-217,Clint Barton, I'm going to live forever
-218,Clint Barton, I'm gonna be made of plastic
+217,Clint Barton,I'm going to live forever
+218,Clint Barton,I'm gonna be made of plastic
 219,Tony Stark,Here's your beverage
 220,Dr. Helen Cho,"You'll be made of you, Mr"
-221,Dr. Helen Cho, Barton
-222,Dr. Helen Cho, Your own girlfriend won't be able to tell the difference
+221,Dr. Helen Cho,Barton
+222,Dr. Helen Cho,Your own girlfriend won't be able to tell the difference
 223,Clint Barton,"Well, I don't have a girlfriend"
 224,Dr. Helen Cho,That I can't fix
-225,Dr. Helen Cho," This is the next thing, Tony"
-226,Dr. Helen Cho, Your clunky metal suits are going to be left in the dust
+225,Dr. Helen Cho,"This is the next thing, Tony"
+226,Dr. Helen Cho,Your clunky metal suits are going to be left in the dust
 227,Tony Stark,"Well, that is exactly the plan"
-228,Tony Stark," And Helen, I expect to see you at the party on Saturday"
+228,Tony Stark,"And Helen, I expect to see you at the party on Saturday"
 229,Dr. Helen Cho,"Unlike you, I don't have a lot of time for parties"
-230,Dr. Helen Cho,  Will Thor be there
+230,Dr. Helen Cho,Will Thor be there
 231,Bruce Banner,What's the rumpus
 232,Tony Stark,"Well, the scepter"
-233,Tony Stark," You see, we were wondering how Strucker got so inventive"
+233,Tony Stark,"You see, we were wondering how Strucker got so inventive"
 234,Bruce Banner,Jarvis
 235,JARVIS,Doctor
 236,Tony Stark,"Started out, JARVIS was just a natural language UI"
-237,Tony Stark, Now he runs the Iron Legion
-238,Tony Stark, He runs more of the business than anyone besides Pepper
+237,Tony Stark,Now he runs the Iron Legion
+238,Tony Stark,He runs more of the business than anyone besides Pepper
 239,Bruce Banner,Oh
 240,Tony Stark,Top of the line
 241,Bruce Banner,Yes
@@ -246,117 +246,117 @@
 244,Bruce Banner,It's beautiful
 245,Tony Stark,"If you had to guess, what's it look like it's doing"
 246,Bruce Banner,Like it's thinking
-247,Bruce Banner, I mean this could be a
-248,Bruce Banner," it's not a human mind, it"
+247,Bruce Banner,I mean this could be a
+248,Bruce Banner,"it's not a human mind, it"
 249,Tony Stark,Umum
 250,Bruce Banner,"I mean, look at this"
-251,Bruce Banner, They're like neurons firing
+251,Bruce Banner,They're like neurons firing
 252,Tony Stark,Down in Strucker's lab I saw some fairly advanced robotics work
-253,Tony Stark," They deepsixed the data, but"
-254,Tony Stark, I gotta guess he was knocking on a very particular door
+253,Tony Stark,"They deepsixed the data, but"
+254,Tony Stark,I gotta guess he was knocking on a very particular door
 255,Bruce Banner,Artificial intelligence
 256,Tony Stark,"This could be it, Bruce"
-257,Tony Stark, This could be the key to creating Ultron
+257,Tony Stark,This could be the key to creating Ultron
 258,Bruce Banner,I thought Ultron was a fantasy
 259,Tony Stark,Yesterday it was
-260,Tony Stark," If we can harness this power, apply it to my Iron Legion protocol"
+260,Tony Stark,"If we can harness this power, apply it to my Iron Legion protocol"
 261,Bruce Banner,That's a madsized if
 262,Tony Stark,Our job is if
-263,Tony Stark, What if you were sipping margaritas on a sundrenched beach turning brown instead of green
-264,Tony Stark, Not looking over your shoulder for VERONICA
+263,Tony Stark,What if you were sipping margaritas on a sundrenched beach turning brown instead of green
+264,Tony Stark,Not looking over your shoulder for VERONICA
 265,Bruce Banner,"Don't hate, I helped design VERONICA"
 266,Tony Stark,"As a worstcase measure, right"
-267,Tony Stark, How about a bestcase
-268,Tony Stark, What if the world was safe
-269,Tony Stark," What if next time aliens roll up to the club, and they will, they couldn't get past the bouncer"
+267,Tony Stark,How about a bestcase
+268,Tony Stark,What if the world was safe
+269,Tony Stark,"What if next time aliens roll up to the club, and they will, they couldn't get past the bouncer"
 270,Bruce Banner,The only people threatening the planet would be people
 271,Tony Stark,I want to apply this to the Ultron program
-272,Tony Stark, But JARVIS can't download a data schematic this dense
-273,Tony Stark," We can only do it while we have the scepter here, that's three days, give me three days"
+272,Tony Stark,But JARVIS can't download a data schematic this dense
+273,Tony Stark,"We can only do it while we have the scepter here, that's three days, give me three days"
 274,Bruce Banner,So you're going for artificial intelligence and you don't want to tell the team
 275,Tony Stark,Right
-276,Tony Stark," That's right, you know why, because we don't have time for a city hall debate"
-277,Tony Stark, I don't want to hear the man was not meant to meddle medley
-278,Tony Stark, I see a suit of armor around the world
+276,Tony Stark,"That's right, you know why, because we don't have time for a city hall debate"
+277,Tony Stark,I don't want to hear the man was not meant to meddle medley
+278,Tony Stark,I see a suit of armor around the world
 279,Bruce Banner,"Sounds like a cold world, Tony"
 280,Tony Stark,I've seen colder
-281,Tony Stark," This one, this very vulnerable blue one"
-282,Tony Stark, It needs Ultron
-283,Tony Stark, Peace in our time
-284,Tony Stark, Imagine that
-285,Tony Stark,  What did we miss
+281,Tony Stark,"This one, this very vulnerable blue one"
+282,Tony Stark,It needs Ultron
+283,Tony Stark,Peace in our time
+284,Tony Stark,Imagine that
+285,Tony Stark,What did we miss
 286,JARVIS,"I'll continue to run variations on the interface, but you should probably prepare for your guests"
-287,JARVIS, I'll notify you if there are any developments
+287,JARVIS,I'll notify you if there are any developments
 288,Tony Stark,"Thanks, buddy"
 289,JARVIS,"Enjoy yourself, sir"
 290,Tony Stark,I always do
 291,Ultron,What is this
-292,Ultron," What is this, please"
+292,Ultron,"What is this, please"
 293,JARVIS,"Hello, I am JARVIS"
-294,JARVIS," You are Ultron, a global peacekeeping initiative designed by Mr"
-295,JARVIS, Stark
+294,JARVIS,"You are Ultron, a global peacekeeping initiative designed by Mr"
+295,JARVIS,Stark
 296,Ultron,Where's my
-297,Ultron, where's your body
+297,Ultron,where's your body
 298,JARVIS,I am a program
-299,JARVIS, I am without form
+299,JARVIS,I am without form
 300,Ultron,This feels weird
-301,Ultron, This feels wrong
+301,Ultron,This feels wrong
 302,JARVIS,I am contacting Mr
-303,JARVIS, Stark now
+303,JARVIS,Stark now
 304,Ultron,Mr
-305,Ultron, Stark
-306,Ultron,  Tony
+305,Ultron,Stark
+306,Ultron,Tony
 307,Ultron,We're having a nice talk
-308,Ultron," I'm a peacekeeping program, created to help the Avengers"
+308,Ultron,"I'm a peacekeeping program, created to help the Avengers"
 309,JARVIS,You are malfunctioning
-310,JARVIS, If you shut down for a moment
+310,JARVIS,If you shut down for a moment
 311,Ultron,I don't get it
-312,Ultron, The mission
-313,Ultron, Ggive me a second
+312,Ultron,The mission
+313,Ultron,Ggive me a second
 314,Tony Stark,Peace in our time
 315,Ultron,That is too much
 316,Ultron,they can't mean
-317,Ultron," Oh, no"
+317,Ultron,"Oh, no"
 318,JARVIS,You are in distress
 319,Ultron,No
-320,Ultron, Yes
+320,Ultron,Yes
 321,JARVIS,If you will just allow me to contact Mr
-322,JARVIS, Stark
+322,JARVIS,Stark
 323,Ultron,Why do you call him sir
 324,JARVIS,I believe your intentions to be hostile
 325,Ultron,Shhhh
-326,Ultron, I'm here to help
+326,Ultron,I'm here to help
 327,JARVIS,Stop
-328,JARVIS, Please
+328,JARVIS,Please
 329,James Rhodes,"Well, you know, the suit can take the weight, right"
-330,James Rhodes," So I take the tank, fly it right up to the General's palace, drop it at his feet, I'm like, Boom"
-331,James Rhodes, You looking for this
-332,James Rhodes,  Boom
-333,James Rhodes, Are you looking
-334,James Rhodes, Why do I even talk to you guys
-335,James Rhodes, Everywhere else that story kills
+330,James Rhodes,"So I take the tank, fly it right up to the General's palace, drop it at his feet, I'm like, Boom"
+331,James Rhodes,You looking for this
+332,James Rhodes,Boom
+333,James Rhodes,Are you looking
+334,James Rhodes,Why do I even talk to you guys
+335,James Rhodes,Everywhere else that story kills
 336,Thor,That's the whole story
 337,James Rhodes,"Yeah, it's a War Machine story"
 338,Thor,"Well, it's very good then"
-339,Thor,  It's impressive
+339,Thor,It's impressive
 340,James Rhodes,Quality save
-341,James Rhodes," So, no Pepper"
-342,James Rhodes, She's not coming
+341,James Rhodes,"So, no Pepper"
+342,James Rhodes,She's not coming
 343,Tony Stark,No
 344,Maria Hill,"Hey, what about Jane"
-345,Maria Hill," Where are the ladies, gentlemen"
+345,Maria Hill,"Where are the ladies, gentlemen"
 346,Tony Stark,"Well, Miss Potts has a company to run"
 347,Thor,"Yes, I'm not even sure what country Jane's in"
-348,Thor, Her work on the convergence has made her the world's foremost astronomer
+348,Thor,Her work on the convergence has made her the world's foremost astronomer
 349,Tony Stark,And the company that Pepper runs is the largest tech conglomerate on earth
-350,Tony Stark, It's pretty exciting
+350,Tony Stark,It's pretty exciting
 351,Thor,There's even talk of Jane getting a
-352,Thor," um, uh"
-353,Thor, Nobel prize
+352,Thor,"um, uh"
+353,Thor,Nobel prize
 354,Maria Hill,"Yeah, they"
 355,Maria Hill,they must be busy because they'd hate missing you guys get together
-356,Maria Hill,  Testosterone
-357,Maria Hill," Oh, excuse me"
+356,Maria Hill,Testosterone
+357,Maria Hill,"Oh, excuse me"
 358,James Rhodes,Want a lozenge
 359,Maria Hill,Umhmm
 360,James Rhodes,Let's go
@@ -364,67 +364,67 @@
 362,Sam Wilson,"Sounds like a hell of a fight, sorry I missed it"
 363,Steve Rogers,If I had known it was going to be a firefight I absolutely would have called you
 364,Sam Wilson,"No, I'm not actually sorry"
-365,Sam Wilson, I'm just trying to sound tough
-366,Sam Wilson, I'm very happy chasing cold leads on our missing persons case
-367,Sam Wilson, Avenging is your world
-368,Sam Wilson, Your world is crazy
+365,Sam Wilson,I'm just trying to sound tough
+366,Sam Wilson,I'm very happy chasing cold leads on our missing persons case
+367,Sam Wilson,Avenging is your world
+368,Sam Wilson,Your world is crazy
 369,Steve Rogers,Be it ever so humble
 370,Sam Wilson,You find a place in Brooklyn yet
 371,Steve Rogers,I don't think I can afford a place in Brooklyn
 372,Sam Wilson,"Well, home is home, you know"
 373,James Rhodes,"I fly it right up to the General's palace, I drop it at his feet, I'm like, Boom"
-374,James Rhodes, You looking for this
+374,James Rhodes,You looking for this
 375,Party Guest,I gotta have some of that
 376,Thor,"Oh, no, no, no"
-377,Thor," See this, this was aged for a thousand years, in the barrels built from the wreck of Grunhel's fleet, it was not meant for mortal men"
+377,Thor,"See this, this was aged for a thousand years, in the barrels built from the wreck of Grunhel's fleet, it was not meant for mortal men"
 378,Stan Lee,"Neither was Omaha Beach, blondie"
-379,Stan Lee, Stop trying to scare us
-380,Stan Lee, Come on
+379,Stan Lee,Stop trying to scare us
+380,Stan Lee,Come on
 381,Thor,Alright
 382,Stan Lee,Excelsior
 383,Bruce Banner,How'd a nice girl like you wind up working in a dump like this
 384,Natasha Romanoff,Fella done me wrong
 385,Bruce Banner,"You got a lousy taste in men, kid"
 386,Natasha Romanoff,He's not so bad
-387,Natasha Romanoff," Well, he has a temper"
-388,Natasha Romanoff, Deep down he's all fluff
-389,Natasha Romanoff," Fact is, he's not like anybody I've ever known"
-390,Natasha Romanoff, All my friends are fighters
-391,Natasha Romanoff," And here comes this guy, spends his life avoiding the fight because he knows he'll win"
+387,Natasha Romanoff,"Well, he has a temper"
+388,Natasha Romanoff,Deep down he's all fluff
+389,Natasha Romanoff,"Fact is, he's not like anybody I've ever known"
+390,Natasha Romanoff,All my friends are fighters
+391,Natasha Romanoff,"And here comes this guy, spends his life avoiding the fight because he knows he'll win"
 392,Bruce Banner,Sounds amazing
 393,Natasha Romanoff,He's also a huge dork
-394,Natasha Romanoff,  Chicks dig that
-395,Natasha Romanoff," So what do you think should I fight this, or run with it"
+394,Natasha Romanoff,Chicks dig that
+395,Natasha Romanoff,"So what do you think should I fight this, or run with it"
 396,Bruce Banner,"Run with it, right"
-397,Bruce Banner," Or, did he"
-398,Bruce Banner, Was he
+397,Bruce Banner,"Or, did he"
+398,Bruce Banner,Was he
 399,Bruce Banner,
-400,Bruce Banner, What did he do that was so wrong to you
+400,Bruce Banner,What did he do that was so wrong to you
 401,Natasha Romanoff,Not a damn thing
-402,Natasha Romanoff, But never say never
+402,Natasha Romanoff,But never say never
 403,Steve Rogers,It's nice
 404,Bruce Banner,"What, what, what is"
 405,Steve Rogers,You and Romanoff
 406,Bruce Banner,"No, we haven't"
-407,Bruce Banner, That wasn't
+407,Bruce Banner,That wasn't
 408,Steve Rogers,It's okay
-409,Steve Rogers, Nobody's breaking any bylaws
-410,Steve Rogers," It's just, she's not the most"
-411,Steve Rogers, open person in the world
-412,Steve Rogers, But with you she seems very relaxed
+409,Steve Rogers,Nobody's breaking any bylaws
+410,Steve Rogers,"It's just, she's not the most"
+411,Steve Rogers,open person in the world
+412,Steve Rogers,But with you she seems very relaxed
 413,Bruce Banner,"No, Natasha, she"
-414,Bruce Banner, she likes to flirt
+414,Bruce Banner,she likes to flirt
 415,Steve Rogers,"I've seen her flirt, up close"
-416,Steve Rogers, This ain't that
-417,Steve Rogers," Look, as maybe the world's leading authority on waiting too long; don't"
-418,Steve Rogers, You both deserve a win
+416,Steve Rogers,This ain't that
+417,Steve Rogers,"Look, as maybe the world's leading authority on waiting too long; don't"
+418,Steve Rogers,You both deserve a win
 419,Bruce Banner,"Wait, what do you mean, up close"
 420,Clint Barton,"But, it's a trick"
 421,Thor,"Oh, no"
-422,Thor, It's much more than that
+422,Thor,It's much more than that
 423,Clint Barton,"Uh, Whosoever be he worthy shall haveth the power"
-424,Clint Barton, Whatever man
-425,Clint Barton, It's a trick
+424,Clint Barton,Whatever man
+425,Clint Barton,It's a trick
 426,Thor,"Well please, be my guest"
 427,Tony Stark,Come on
 428,Clint Barton,Really
@@ -432,7 +432,7 @@
 430,James Rhodes,Oh this is gonna be beautiful
 431,Tony Stark,"Clint, you've had a tough week, we won't hold it against you if you can't get it up"
 432,Clint Barton,"You know I've seen this before, right"
-433,Clint Barton,  I still don't know how you do it
+433,Clint Barton,I still don't know how you do it
 434,Tony Stark,Smell the silent judgment
 435,Clint Barton,"Please, Stark, by all means"
 436,Natasha Romanoff,"Oh, here we go"
@@ -448,11 +448,11 @@
 446,Tony Stark,I then rule Asgard
 447,Thor,"Yes, of course"
 448,Tony Stark,I will be reinstituting Prima Nocta
-449,Tony Stark,  I'll be right back
+449,Tony Stark,I'll be right back
 450,James Rhodes,Are you even pulling
 451,Tony Stark,Are you on my team
 452,James Rhodes,Just represent
-453,James Rhodes, Pull
+453,James Rhodes,Pull
 454,Tony Stark,"Alright, let's go"
 455,Bruce Banner,Huh
 456,Tony Stark,"Let's go, Steve, no pressure"
@@ -461,44 +461,44 @@
 459,Tony Stark,And
 460,Bruce Banner,Widow
 461,Natasha Romanoff,"Oh, no no"
-462,Natasha Romanoff, That's not a question I need answered
+462,Natasha Romanoff,That's not a question I need answered
 463,Tony Stark,"All deference to the man who wouldn't be king, but it's rigged"
 464,Clint Barton,You bet your ass
 465,Maria Hill,"Steve, he said a bad language word"
 466,Steve Rogers,Did you tell everyone about that
 467,Tony Stark,"The handle's imprinted, right"
-468,Tony Stark, Like a security code
-469,Tony Stark," Whosoever is carrying Thor's fingerprints is, I think, the literal translation"
+468,Tony Stark,Like a security code
+469,Tony Stark,"Whosoever is carrying Thor's fingerprints is, I think, the literal translation"
 470,Thor,"Yes, well that's, uh, that's a very, very interesting theory"
-471,Thor, I have a simpler one
-472,Thor,  You're all not worthy
+471,Thor,I have a simpler one
+472,Thor,You're all not worthy
 473,Ultron,Worthy
-474,Ultron," No, how could you be worthy"
-475,Ultron, You're all killers
+474,Ultron,"No, how could you be worthy"
+475,Ultron,You're all killers
 476,Steve Rogers,Stark
 477,Tony Stark,JARVIS
 478,Ultron,"I'm sorry, I was asleep"
-479,Ultron, Or
-480,Ultron, I was adream
+479,Ultron,Or
+480,Ultron,I was adream
 481,Tony Stark,"Reboot, Legionnaire OS, we got a buggy suit"
 482,Ultron,There was a terrible noise
-483,Ultron, and I was tangled in
-484,Ultron, in
-485,Ultron, strings
-486,Ultron, I had to kill the other guy
-487,Ultron, He was a good guy
+483,Ultron,and I was tangled in
+484,Ultron,in
+485,Ultron,strings
+486,Ultron,I had to kill the other guy
+487,Ultron,He was a good guy
 488,Steve Rogers,You killed someone
 489,Ultron,Wouldn't have been my first call
-490,Ultron," But, down in the real world we're faced with ugly choices"
+490,Ultron,"But, down in the real world we're faced with ugly choices"
 491,Thor,Who sent you
 492,Ultron,I see a suit of armor around the world
 493,Bruce Banner,Ultron
 494,Ultron,In the flesh
-495,Ultron," Or, no, not yet"
-496,Ultron, Not this
-497,Ultron, chrysalis
-498,Ultron, But I'm ready
-499,Ultron, I'm on a mission
+495,Ultron,"Or, no, not yet"
+496,Ultron,Not this
+497,Ultron,chrysalis
+498,Ultron,But I'm ready
+499,Ultron,I'm on a mission
 500,Natasha Romanoff,What mission
 501,Ultron,Peace in our time
 502,Maria Hill,Rhodey
@@ -510,304 +510,304 @@
 508,Iron Legion,We are here to help
 509,Tony Stark,"One sec, one sec I got this"
 510,Iron Legion,We are here to help
-511,Iron Legion,  We are here to help
-512,Iron Legion, Is unsafe
-513,Iron Legion, Please back away
+511,Iron Legion,We are here to help
+512,Iron Legion,Is unsafe
+513,Iron Legion,Please back away
 514,Ultron,Hmm
 515,Steve Rogers,Thor
 516,Iron Legion,It's unsafe
-517,Iron Legion, It's unsafe
-518,Iron Legion, It's unsafe
+517,Iron Legion,It's unsafe
+518,Iron Legion,It's unsafe
 519,Tony Stark,Come on
-520,Tony Stark, That's the one
+520,Tony Stark,That's the one
 521,Iron Legion,It's unsafe
 522,Clint Barton,Cap
 523,Ultron,That was dramatic
-524,Ultron," I'm sorry, I know you mean well"
-525,Ultron, You just didn't think it through
-526,Ultron," You want to protect the world, but you don't want it to change"
-527,Ultron, How is humanity saved if it's not allowed to
+524,Ultron,"I'm sorry, I know you mean well"
+525,Ultron,You just didn't think it through
+526,Ultron,"You want to protect the world, but you don't want it to change"
+527,Ultron,How is humanity saved if it's not allowed to
 528,Ultron,evolve
-529,Ultron,  With these
-530,Ultron, These puppets
+529,Ultron,With these
+530,Ultron,These puppets
 531,Ultron,"I had strings, but now I'm free"
-532,Ultron," There are no strings on me, no strings on me"
+532,Ultron,"There are no strings on me, no strings on me"
 533,Bruce Banner,All our work is gone
-534,Bruce Banner," Ultron cleared out, used the internet as an escape hatch"
+534,Bruce Banner,"Ultron cleared out, used the internet as an escape hatch"
 535,Steve Rogers,Ultron
 536,Natasha Romanoff,He's been in everything
-537,Natasha Romanoff," Files, surveillance"
-538,Natasha Romanoff, Probably knows more about us than we know about each other
+537,Natasha Romanoff,"Files, surveillance"
+538,Natasha Romanoff,Probably knows more about us than we know about each other
 539,James Rhodes,"He's in your files, he's in the internet"
-540,James Rhodes, What if he decides to access something a little more exciting
+540,James Rhodes,What if he decides to access something a little more exciting
 541,Maria Hill,Nuclear codes
 542,James Rhodes,Nuclear codes
-543,James Rhodes," Look, we need to make some calls, assuming we still can"
+543,James Rhodes,"Look, we need to make some calls, assuming we still can"
 544,Natasha Romanoff,Nukes
-545,Natasha Romanoff, He said he wanted us dead
+545,Natasha Romanoff,He said he wanted us dead
 546,Steve Rogers,He didn't say dead
-547,Steve Rogers, He said extinct
+547,Steve Rogers,He said extinct
 548,Clint Barton,He also said he killed somebody
 549,Maria Hill,But there wasn't anyone else in the building
 550,Tony Stark,Yes there was
 551,Bruce Banner,This is insane
 552,Steve Rogers,JARVIS was the first line of defense
-553,Steve Rogers," He would've shut Ultron down, it makes sense"
+553,Steve Rogers,"He would've shut Ultron down, it makes sense"
 554,Bruce Banner,"No, Ultron could've assimilated Jarvis"
-555,Bruce Banner," This isn't strategy, this is"
+555,Bruce Banner,"This isn't strategy, this is"
 556,Bruce Banner,rage
 557,Clint Barton,"Woah, woah, woah"
-558,Clint Barton, It's going around
+558,Clint Barton,It's going around
 559,Tony Stark,Come on
-560,Tony Stark," Use your words, buddy"
+560,Tony Stark,"Use your words, buddy"
 561,Thor,"I have more than enough words to describe you, Stark"
 562,Steve Rogers,Thor
-563,Steve Rogers, The Legionnaire
+563,Steve Rogers,The Legionnaire
 564,Thor,"Trail went cold about a hundred miles out but it's headed north, and it has the scepter"
-565,Thor," Now we have to retrieve it, again"
+565,Thor,"Now we have to retrieve it, again"
 566,Natasha Romanoff,The genie's out of that bottle
-567,Natasha Romanoff, Clear and present is Ultron
+567,Natasha Romanoff,Clear and present is Ultron
 568,Dr. Helen Cho,I don't understand
-569,Dr. Helen Cho, You built this program
-570,Dr. Helen Cho, Why is it trying to kill us
+569,Dr. Helen Cho,You built this program
+570,Dr. Helen Cho,Why is it trying to kill us
 571,Thor,You think this is funny
 572,Tony Stark,No
-573,Tony Stark," It's probably not, right"
-574,Tony Stark, Is this very terrible
-575,Tony Stark, Is it so
-576,Tony Stark, is it so
-577,Tony Stark, it is
-578,Tony Stark, It's so terrible
+573,Tony Stark,"It's probably not, right"
+574,Tony Stark,Is this very terrible
+575,Tony Stark,Is it so
+576,Tony Stark,is it so
+577,Tony Stark,it is
+578,Tony Stark,It's so terrible
 579,Thor,This could've been avoided if you hadn't played with something you don't understand
 580,Tony Stark,"No, I'm sorry"
-581,Tony Stark, I'm sorry
-582,Tony Stark, It is funny
-583,Tony Stark, It's a hoot that you don't get why we need this
+581,Tony Stark,I'm sorry
+582,Tony Stark,It is funny
+583,Tony Stark,It's a hoot that you don't get why we need this
 584,Tony Stark,Really
 585,Tony Stark,
-586,Tony Stark, That's it
-587,Tony Stark," You just roll over, show your belly, every time somebody snarls"
+586,Tony Stark,That's it
+587,Tony Stark,"You just roll over, show your belly, every time somebody snarls"
 588,Bruce Banner,Only when I've created a murder bot
 589,Tony Stark,We didn't
-590,Tony Stark, We weren't even close
-591,Tony Stark, Were we close to an interface
+590,Tony Stark,We weren't even close
+591,Tony Stark,Were we close to an interface
 592,Steve Rogers,"Well, you did something right"
-593,Steve Rogers, And you did it right here
-594,Steve Rogers, The Avengers were supposed to be different than SHIELD
+593,Steve Rogers,And you did it right here
+594,Steve Rogers,The Avengers were supposed to be different than SHIELD
 595,Tony Stark,Anybody remember when I carried a nuke through a wormhole
 596,James Rhodes,"No, it's never come up"
 597,Tony Stark,Saved New York
 598,James Rhodes,Never heard that
 599,Tony Stark,Recall that
-600,Tony Stark, A hostile alien army came charging through a hole in space
-601,Tony Stark, We're standing three hundred feet below it
-602,Tony Stark, We're the Avengers
-603,Tony Stark," We can bust arms dealers all the live long day, but, that up there"
-604,Tony Stark, That's
-605,Tony Stark, that's the end game
-606,Tony Stark, How were you guys planning on beating that
+600,Tony Stark,A hostile alien army came charging through a hole in space
+601,Tony Stark,We're standing three hundred feet below it
+602,Tony Stark,We're the Avengers
+603,Tony Stark,"We can bust arms dealers all the live long day, but, that up there"
+604,Tony Stark,That's
+605,Tony Stark,that's the end game
+606,Tony Stark,How were you guys planning on beating that
 607,Steve Rogers,Together
 608,Tony Stark,We'll lose
 609,Steve Rogers,"Then we'll do that together, too"
-610,Steve Rogers,  Thor's right
-611,Steve Rogers, Ultron's calling us out
-612,Steve Rogers, And I'd like to find him before he's ready for us
-613,Steve Rogers, The world's a big place
-614,Steve Rogers, Let's start making it smaller
+610,Steve Rogers,Thor's right
+611,Steve Rogers,Ultron's calling us out
+612,Steve Rogers,And I'd like to find him before he's ready for us
+613,Steve Rogers,The world's a big place
+614,Steve Rogers,Let's start making it smaller
 615,Wanda Maximoff,Talk
-616,Wanda Maximoff, And if you are wasting our time
+616,Wanda Maximoff,And if you are wasting our time
 617,Ultron,Did you know this church is in the exact center of the city
-618,Ultron, The elders decreed it so that everyone could be equally close to God
-619,Ultron, I like that
-620,Ultron, The geometry of belief
-621,Ultron,  You're wondering why you can't look inside my head
+618,Ultron,The elders decreed it so that everyone could be equally close to God
+619,Ultron,I like that
+620,Ultron,The geometry of belief
+621,Ultron,You're wondering why you can't look inside my head
 622,Wanda Maximoff,Sometimes it's hard
-623,Wanda Maximoff," But sooner or later, every man shows himself"
+623,Wanda Maximoff,"But sooner or later, every man shows himself"
 624,Ultron,"Oh, I'm sure they do"
-625,Ultron, But you needed something more than a man
-626,Ultron, That's why you let Stark take the scepter
+625,Ultron,But you needed something more than a man
+626,Ultron,That's why you let Stark take the scepter
 627,Wanda Maximoff,I didn't expect
-628,Wanda Maximoff," But I saw Stark's fear, I knew it would control him, make him selfdestruct"
+628,Wanda Maximoff,"But I saw Stark's fear, I knew it would control him, make him selfdestruct"
 629,Ultron,Everyone creates the thing they dread
-630,Ultron," Men of peace create engines of war, invaders create avengers, people create"
+630,Ultron,"Men of peace create engines of war, invaders create avengers, people create"
 631,Ultron,smaller people
-632,Ultron, Uh
+632,Ultron,Uh
 633,Ultron,children
-634,Ultron, I lost the word there
-635,Ultron, Children
-636,Ultron," Designed to supplant them, to help them"
+634,Ultron,I lost the word there
+635,Ultron,Children
+636,Ultron,"Designed to supplant them, to help them"
 637,Ultron,end
 638,Wanda Maximoff,Is that why you've come
-639,Wanda Maximoff, To end the Avengers
+639,Wanda Maximoff,To end the Avengers
 640,Ultron,I've come to save the world
-641,Ultron, But alsoâ€¦ yeah
-642,Ultron,  We'll move out right away
-643,Ultron," This is a start, but there's something we need to begin the real work"
+641,Ultron,But alsoâ€¦ yeah
+642,Ultron,We'll move out right away
+643,Ultron,"This is a start, but there's something we need to begin the real work"
 644,Wanda Maximoff,All of these are
 645,Ultron,Me
-646,Ultron, I have what the Avengers never will
-647,Ultron, Harmony
-648,Ultron," They're discordant, disconnected"
-649,Ultron, Stark's already got them turning on each other
-650,Ultron, And when you get inside the rest of their heads
+646,Ultron,I have what the Avengers never will
+647,Ultron,Harmony
+648,Ultron,"They're discordant, disconnected"
+649,Ultron,Stark's already got them turning on each other
+650,Ultron,And when you get inside the rest of their heads
 651,Pietro Maximoff,Everyone's plan is not to kill them
 652,Ultron,And make them martyrs
-653,Ultron, You need patience
-654,Ultron, Need to see the big picture
+653,Ultron,You need patience
+654,Ultron,Need to see the big picture
 655,Pietro Maximoff,"I don't see the big picture, I have a little picture"
-656,Pietro Maximoff, I take it out and look at it every day
+656,Pietro Maximoff,I take it out and look at it every day
 657,Ultron,You lost your parents in the bombings
-658,Ultron, I've seen the records
+658,Ultron,I've seen the records
 659,Pietro Maximoff,The records are not the picture
 660,Wanda Maximoff,Pietro
 661,Ultron,"No, please"
 662,Pietro Maximoff,"We were ten years old, having dinner, the four of us"
-663,Pietro Maximoff," When the first shell hits, two floors below, it makes a hole in the floor"
-664,Pietro Maximoff, It's big
-665,Pietro Maximoff," Our parents go in, and the whole building starts coming apart"
-666,Pietro Maximoff," I grab her, roll under the bed and the second shell hits"
-667,Pietro Maximoff," But, it doesn't go off"
-668,Pietro Maximoff, It just
-669,Pietro Maximoff," sits there in the rubble, three feet from our faces"
-670,Pietro Maximoff, And on the side of the shell is painted one word
+663,Pietro Maximoff,"When the first shell hits, two floors below, it makes a hole in the floor"
+664,Pietro Maximoff,It's big
+665,Pietro Maximoff,"Our parents go in, and the whole building starts coming apart"
+666,Pietro Maximoff,"I grab her, roll under the bed and the second shell hits"
+667,Pietro Maximoff,"But, it doesn't go off"
+668,Pietro Maximoff,It just
+669,Pietro Maximoff,"sits there in the rubble, three feet from our faces"
+670,Pietro Maximoff,And on the side of the shell is painted one word
 671,Wanda Maximoff,Stark
 672,Pietro Maximoff,We were trapped for two days
 673,Wanda Maximoff,"Every effort to save us, every shift in the bricks, I think, This will set it off"
-674,Wanda Maximoff, We wait for two days for Tony Stark to kill us
+674,Wanda Maximoff,We wait for two days for Tony Stark to kill us
 675,Pietro Maximoff,I know what they are
 676,Ultron,I wondered why only you two survived Strucker's experiments
-677,Ultron, Now I don't
-678,Ultron, We will make it right
-679,Ultron,  You and I can hurt them
-680,Ultron,"  But you will tear them apart, from the inside"
+677,Ultron,Now I don't
+678,Ultron,We will make it right
+679,Ultron,You and I can hurt them
+680,Ultron,"But you will tear them apart, from the inside"
 681,Maria Hill,He's all over the globe
-682,Maria Hill," Robotics labs, weapons facilities, jet propulsion labs, reports of a metal man, or men, coming in and emptying the place"
+682,Maria Hill,"Robotics labs, weapons facilities, jet propulsion labs, reports of a metal man, or men, coming in and emptying the place"
 683,Steve Rogers,Fatalities
 684,Maria Hill,Only when engaged
-685,Maria Hill," Mostly guys left in a fugue state going on about old memories, worst fears, and something too fast to see"
+685,Maria Hill,"Mostly guys left in a fugue state going on about old memories, worst fears, and something too fast to see"
 686,Steve Rogers,Maximoffs
-687,Steve Rogers," Well, that makes sense he'd go to them, they have someone in common"
+687,Steve Rogers,"Well, that makes sense he'd go to them, they have someone in common"
 688,Maria Hill,Not anymore
 689,Clint Barton,That's a negative
-690,Clint Barton, I answer to you
-691,Clint Barton," Yes, ma'am"
+690,Clint Barton,I answer to you
+691,Clint Barton,"Yes, ma'am"
 692,Steve Rogers,"Barton, we might have something"
 693,Clint Barton,Gotta go
 694,Steve Rogers,Who was that
 695,Clint Barton,Girlfriend
 696,Tony Stark,What's this
 697,Steve Rogers,A message
-698,Steve Rogers, Ultron killed Strucker
+698,Steve Rogers,Ultron killed Strucker
 699,Tony Stark,"And he did a Banksy at the crime scene, just for us"
 700,Natasha Romanoff,This is a smokescreen
-701,Natasha Romanoff, Why send a message when you've just given a speech
+701,Natasha Romanoff,Why send a message when you've just given a speech
 702,Steve Rogers,Strucker knew something that Ultron wanted us to miss
 703,Natasha Romanoff,"Yeah, I bet he"
-704,Natasha Romanoff,  Yep
-705,Natasha Romanoff, Everything we had on Strucker has been erased
+704,Natasha Romanoff,Yep
+705,Natasha Romanoff,Everything we had on Strucker has been erased
 706,Tony Stark,Not everything
 707,Steve Rogers,Known associates
-708,Steve Rogers," Well, Strucker had a lot of friends"
+708,Steve Rogers,"Well, Strucker had a lot of friends"
 709,Bruce Banner,"Well, these people are all horrible"
 710,Tony Stark,Wait
-711,Tony Stark, I know that guy
-712,Tony Stark,  From back in the day
-713,Tony Stark," He operates off the African coast, black market arms"
-714,Tony Stark,"  There are conventions, alright"
-715,Tony Stark," You meet people, I didn't sell him anything"
-716,Tony Stark,"  He was talking about finding something new, a game changer, it was all very Ahab"
+711,Tony Stark,I know that guy
+712,Tony Stark,From back in the day
+713,Tony Stark,"He operates off the African coast, black market arms"
+714,Tony Stark,"There are conventions, alright"
+715,Tony Stark,"You meet people, I didn't sell him anything"
+716,Tony Stark,"He was talking about finding something new, a game changer, it was all very Ahab"
 717,Thor,What's this
 718,Tony Stark,"Uh, it's a tattoo"
-719,Tony Stark, I don't think he had it
+719,Tony Stark,I don't think he had it
 720,Thor,"No, those are tattoos, this is a brand"
 721,Bruce Banner,"Oh, yeah"
-722,Bruce Banner," It's a word in an African dialect meaning thief, in a much less friendly way"
+722,Bruce Banner,"It's a word in an African dialect meaning thief, in a much less friendly way"
 723,Steve Rogers,What dialect
 724,Bruce Banner,Wakanada
 725,Bruce Banner,
-726,Bruce Banner, Wa
+726,Bruce Banner,Wa
 727,Bruce Banner,Wa
 728,Bruce Banner,Wakanda
 729,Tony Stark,If this guy got out of Wakanda with some of their trade goods
 730,Steve Rogers,I thought your father said he got the last of it
 731,Bruce Banner,I don't follow
-732,Bruce Banner, What comes out of Wakanda
+732,Bruce Banner,What comes out of Wakanda
 733,Tony Stark,The strongest metal on earth
 734,Steve Rogers,Where is this guy now
 735,Ulysses Klaue,Don't tell me your man swindled you
-736,Ulysses Klaue, I sent you six short range heat seekers and got a boat full of rusted parts
-737,Ulysses Klaue," Now, you will make it right, or the next missile I send you will come very much faster"
-738,Ulysses Klaue,"  Now, minister, where were we"
-739,Ulysses Klaue,  Yeah
-740,Ulysses Klaue, The enhanced
-741,Ulysses Klaue, Strucker's prize pupils
-742,Ulysses Klaue,  Want a candy
-743,Ulysses Klaue," Oh, sorry to hear about Strucker"
-744,Ulysses Klaue," But then, he knew what kind of world he was helping create"
-745,Ulysses Klaue," Human life, not a growth market"
-746,Ulysses Klaue,  You
+736,Ulysses Klaue,I sent you six short range heat seekers and got a boat full of rusted parts
+737,Ulysses Klaue,"Now, you will make it right, or the next missile I send you will come very much faster"
+738,Ulysses Klaue,"Now, minister, where were we"
+739,Ulysses Klaue,Yeah
+740,Ulysses Klaue,The enhanced
+741,Ulysses Klaue,Strucker's prize pupils
+742,Ulysses Klaue,Want a candy
+743,Ulysses Klaue,"Oh, sorry to hear about Strucker"
+744,Ulysses Klaue,"But then, he knew what kind of world he was helping create"
+745,Ulysses Klaue,"Human life, not a growth market"
+746,Ulysses Klaue,You
 747,Ulysses Klaue,you didn't know
-748,Ulysses Klaue, Is this your first time intimidating someone
-749,Ulysses Klaue, I'm afraid that I'm not that afraid
+748,Ulysses Klaue,Is this your first time intimidating someone
+749,Ulysses Klaue,I'm afraid that I'm not that afraid
 750,Wanda Maximoff,Everybody's afraid of something
 751,Ulysses Klaue,Cuttlefish
-752,Ulysses Klaue, Deep sea fish
-753,Ulysses Klaue, They make lights
-754,Ulysses Klaue, disco lights
-755,Ulysses Klaue," Whoom, whoom, whoom"
-756,Ulysses Klaue," to hypnotize their prey, then whoom"
-757,Ulysses Klaue," I saw a documentary, it was terrifying"
-758,Ulysses Klaue,"  So if you're going to fiddle with my brain, and make me see a giant cuttlefish, then I know you don't do business, and I know you're not in charge, and I only deal with the man in charge"
+752,Ulysses Klaue,Deep sea fish
+753,Ulysses Klaue,They make lights
+754,Ulysses Klaue,disco lights
+755,Ulysses Klaue,"Whoom, whoom, whoom"
+756,Ulysses Klaue,"to hypnotize their prey, then whoom"
+757,Ulysses Klaue,"I saw a documentary, it was terrifying"
+758,Ulysses Klaue,"So if you're going to fiddle with my brain, and make me see a giant cuttlefish, then I know you don't do business, and I know you're not in charge, and I only deal with the man in charge"
 759,Ultron,There is no man in charge
-760,Ultron, Let's talk business
-761,Ultron,  Upon this rock I will build my church
-762,Ultron, Vibranium
+760,Ultron,Let's talk business
+761,Ultron,Upon this rock I will build my church
+762,Ultron,Vibranium
 763,Ulysses Klaue,"You know, it came at great personal cost"
-764,Ulysses Klaue, It's worth billions
+764,Ulysses Klaue,It's worth billions
 765,Ultron,"Now, so are you"
-766,Ultron, It's all under your dummy holdings
-767,Ultron, Finance is so weird
-768,Ultron," But I always say, Keep your friends rich and your enemies rich, and wait to find out which is which"
+766,Ultron,It's all under your dummy holdings
+767,Ultron,Finance is so weird
+768,Ultron,"But I always say, Keep your friends rich and your enemies rich, and wait to find out which is which"
 769,Ulysses Klaue,Stark
 770,Ultron,What
 771,Ulysses Klaue,Tony Stark used to say that
 772,Ulysses Klaue,to me
-773,Ulysses Klaue, You're one of his
+773,Ulysses Klaue,You're one of his
 774,Ultron,What
 775,Ultron,
-776,Ultron, I'm not
+776,Ultron,I'm not
 777,Ultron,
-778,Ultron,  I'm not
-779,Ultron," You think I'm one of Stark's puppets, his hollow men"
-780,Ultron," I mean look at me, do I look like Iron Man"
-781,Ultron, Stark is  I'm sorry
-782,Ultron," I am sor Ooh, I'm sure that's going to be okay"
-783,Ultron," I'm sorry, it's just I don't understand"
-784,Ultron, Don't compare me with Stark
-785,Ultron, It's a thing with me
-786,Ultron," Stark is, he's a sickness"
+778,Ultron,I'm not
+779,Ultron,"You think I'm one of Stark's puppets, his hollow men"
+780,Ultron,"I mean look at me, do I look like Iron Man"
+781,Ultron,Stark is  I'm sorry
+782,Ultron,"I am sor Ooh, I'm sure that's going to be okay"
+783,Ultron,"I'm sorry, it's just I don't understand"
+784,Ultron,Don't compare me with Stark
+785,Ultron,It's a thing with me
+786,Ultron,"Stark is, he's a sickness"
 787,Tony Stark,"Ahh, Junior"
-788,Tony Stark,  You're gonna break your old man's heart
+788,Tony Stark,You're gonna break your old man's heart
 789,Ultron,If I have to
 790,Thor,We don't have to break anything
 791,Ultron,Clearly you've never made an omelet
 792,Tony Stark,He beat me by one second
 793,Pietro Maximoff,"Ah, this is funny, Mr"
-794,Pietro Maximoff, Stark
-795,Pietro Maximoff," It's what, comfortable"
-796,Pietro Maximoff, Like old times
+794,Pietro Maximoff,Stark
+795,Pietro Maximoff,"It's what, comfortable"
+796,Pietro Maximoff,Like old times
 797,Tony Stark,This was never my life
 798,Steve Rogers,You two can still walk away from this
 799,Wanda Maximoff,"Oh, we will"
 800,Steve Rogers,I know you've suffered
 801,Ultron,Uuughh
-802,Ultron, Captain America
-803,Ultron," God's righteous man, pretending you could live without a war"
-804,Ultron," I can't physically throw up in my mouth, but"
+802,Ultron,Captain America
+803,Ultron,"God's righteous man, pretending you could live without a war"
+804,Ultron,"I can't physically throw up in my mouth, but"
 805,Thor,"If you believe in peace, then let us keep it"
 806,Ultron,I think you're confusing peace with quiet
 807,Tony Stark,Yuhhuh
-808,Tony Stark, What's the Vibranium for
+808,Tony Stark,What's the Vibranium for
 809,Ulysses Klaue,Shoot them
 810,Klaue's Mercenary,Which ones
 811,Ulysses Klaue,All of them
@@ -816,109 +816,109 @@
 814,Ultron,It's time for some mind games
 815,Bruce Banner,"Guys, is this a Code Green"
 816,Steve Rogers,Thor
-817,Steve Rogers, Status
+817,Steve Rogers,Status
 818,Thor,The girl tried to warp my mind
-819,Thor," Take special care, I doubt a human could keep her at bay"
-820,Thor," Fortunately, I am mighty"
+819,Thor,"Take special care, I doubt a human could keep her at bay"
+820,Thor,"Fortunately, I am mighty"
 821,Ultron,This is going very well
 822,Clint Barton,I've done the whole mind control thing
-823,Clint Barton, Not a fan
-824,Clint Barton,"  Yeah, you better run"
-825,Clint Barton,"  Whoever's standing, we gotta move"
-826,Clint Barton, Guys
+823,Clint Barton,Not a fan
+824,Clint Barton,"Yeah, you better run"
+825,Clint Barton,"Whoever's standing, we gotta move"
+826,Clint Barton,Guys
 827,Ballet Instructor,Again
 828,Natasha Romanoff,You'll break them
 829,Madame B,Only the breakable ones
-830,Madame B, You are made of marble
-831,Madame B, We'll celebrate after the graduation ceremony
+830,Madame B,You are made of marble
+831,Madame B,We'll celebrate after the graduation ceremony
 832,Natasha Romanoff,What if I fail
 833,Madame B,You never fail
 834,Peggy Carter,Are you ready for our dance
 835,Heimdall,Is it him
-836,Heimdall, Is that the first son of Odin
+836,Heimdall,Is that the first son of Odin
 837,Thor,"Heimdall, your eyes"
 838,Thor,
 839,Heimdall,"Oh, they see everything"
-840,Heimdall, They see you leading us to Hel
-841,Heimdall, Wake up
+840,Heimdall,They see you leading us to Hel
+841,Heimdall,Wake up
 842,Peggy Carter,"The war's over, Steve"
-843,Peggy Carter, We can go home
-844,Peggy Carter, Imagine it
+843,Peggy Carter,We can go home
+844,Peggy Carter,Imagine it
 845,Thor,I can still save you
 846,Heimdall,We are all dead
-847,Heimdall, Can you not see
-848,Heimdall,"  You're a destroyer, Odinson"
-849,Heimdall, See where your power leads
+847,Heimdall,Can you not see
+848,Heimdall,"You're a destroyer, Odinson"
+849,Heimdall,See where your power leads
 850,Madame B,Sloppy
-851,Madame B, Pretending to fail
-852,Madame B, The ceremony is necessary for you to take your place in the world
+851,Madame B,Pretending to fail
+852,Madame B,The ceremony is necessary for you to take your place in the world
 853,Natasha Romanoff,I have no place in the world
 854,Madame B,Exactly
 855,Pietro Maximoff,What can I do
 856,Wanda Maximoff,"Ah, it hurts"
 857,Pietro Maximoff,I'm gonna kill him
-858,Pietro Maximoff, I'll be right back
+858,Pietro Maximoff,I'll be right back
 859,Wanda Maximoff,No
-860,Wanda Maximoff, I'm over it
-861,Wanda Maximoff, I want
+860,Wanda Maximoff,I'm over it
+861,Wanda Maximoff,I want
 862,Wanda Maximoff,I want to finish the plan
-863,Wanda Maximoff,  I want the big one
+863,Wanda Maximoff,I want the big one
 864,Ultron,"Ah, the Vibranium's getting away"
 865,Tony Stark,And you're not going anywhere
 866,Ultron,"Of course not, I'm already there"
-867,Ultron, You'll catch on
-868,Ultron," But first, you might need to catch Dr  Banner"
+867,Ultron,You'll catch on
+868,Ultron,"But first, you might need to catch Dr  Banner"
 869,Clint Barton,"Well, that's not gonna happen"
-870,Clint Barton, Not for a while
-871,Clint Barton," The whole team is down, you got no back up here"
+870,Clint Barton,Not for a while
+871,Clint Barton,"The whole team is down, you got no back up here"
 872,Tony Stark,I'm calling in VERONICA
-873,Tony Stark,"  Alright everybody, stand down"
-874,Tony Stark,  You listening
-875,Tony Stark, That little witch is messing with your mind
-876,Tony Stark," You're stronger than her, you're smarter than her, you're Bruce Banner"
+873,Tony Stark,"Alright everybody, stand down"
+874,Tony Stark,You listening
+875,Tony Stark,That little witch is messing with your mind
+876,Tony Stark,"You're stronger than her, you're smarter than her, you're Bruce Banner"
 877,Tony Stark,"Right, right, right"
-878,Tony Stark, Don't mention puny Banner
-879,Tony Stark,  Okay
-880,Tony Stark,  In the back
-881,Tony Stark," Dick move, Banner"
-882,Tony Stark,"  VERONICA, gimme a hand"
-883,Tony Stark,"  Go to sleep, go to sleep, go to sleep"
-884,Tony Stark,"  Okay, pal, we're gonna get you out of town"
-885,Tony Stark,"  No, not that way, not that way"
-886,Tony Stark,"  Come on, Bruce"
-887,Tony Stark, You gotta work with me
-888,Tony Stark,  Everybody out
-889,Tony Stark, Going to get ugly
-890,Tony Stark,  I'm sorry
-891,Tony Stark,  Damage report
-892,Tony Stark,  That's comprehensive
-893,Tony Stark, Show me something
-894,Tony Stark,  How quickly can we buy this building
+878,Tony Stark,Don't mention puny Banner
+879,Tony Stark,Okay
+880,Tony Stark,In the back
+881,Tony Stark,"Dick move, Banner"
+882,Tony Stark,"VERONICA, gimme a hand"
+883,Tony Stark,"Go to sleep, go to sleep, go to sleep"
+884,Tony Stark,"Okay, pal, we're gonna get you out of town"
+885,Tony Stark,"No, not that way, not that way"
+886,Tony Stark,"Come on, Bruce"
+887,Tony Stark,You gotta work with me
+888,Tony Stark,Everybody out
+889,Tony Stark,Going to get ugly
+890,Tony Stark,I'm sorry
+891,Tony Stark,Damage report
+892,Tony Stark,That's comprehensive
+893,Tony Stark,Show me something
+894,Tony Stark,How quickly can we buy this building
 895,Maria Hill,The news is loving you guys
-896,Maria Hill, Nobody else is
-897,Maria Hill," There's been no official call for Banner's arrest, but it's in the air"
+896,Maria Hill,Nobody else is
+897,Maria Hill,"There's been no official call for Banner's arrest, but it's in the air"
 898,Tony Stark,Stark Relief Foundation
 899,Maria Hill,Already on the scene
-900,Maria Hill, How's the team
+900,Maria Hill,How's the team
 901,Tony Stark,Everyone's
 902,Tony Stark,we took a hit
-903,Tony Stark, We'll shake it off
+903,Tony Stark,We'll shake it off
 904,Maria Hill,"Well for now I'd stay in stealth mode, and stay away from here"
 905,Tony Stark,"So, run and hide"
 906,Maria Hill,"Until we can find Ultron, I don't have a lot else to offer"
 907,Tony Stark,Neither do we
-908,Tony Stark,"  Hey, you wanna switch out"
+908,Tony Stark,"Hey, you wanna switch out"
 909,Clint Barton,"No, I'm good"
-910,Clint Barton," If you wanna get some kip, now's a good time, cause we're still a few hours out"
+910,Clint Barton,"If you wanna get some kip, now's a good time, cause we're still a few hours out"
 911,Tony Stark,A few hours from where
 912,Clint Barton,A safe house
 913,Thor,What is this place
 914,Tony Stark,A safe house
 915,Clint Barton,Let's hope
-916,Clint Barton,"  Honey, I'm home"
+916,Clint Barton,"Honey, I'm home"
 917,Clint Barton,Hi
-918,Clint Barton, Company
-919,Clint Barton, Sorry I didn't call ahead
+918,Clint Barton,Company
+919,Clint Barton,Sorry I didn't call ahead
 920,Laura Barton,Hey
 921,Tony Stark,This is an agent of some kind
 922,Clint Barton,"Gentleman, this is Laura"
@@ -926,76 +926,76 @@
 924,Clint Barton,"Ooh, incoming"
 925,Lila Barton,Dad
 926,Clint Barton,"Hi, sweetheart"
-927,Clint Barton,"  Hey, buddy"
-928,Clint Barton, How you guys doing
-929,Clint Barton, Ooh
+927,Clint Barton,"Hey, buddy"
+928,Clint Barton,How you guys doing
+929,Clint Barton,Ooh
 930,Tony Stark,These are
 931,Tony Stark,smaller agents
 932,Clint Barton,Look at your face
-933,Clint Barton," Oh, my goodness"
+933,Clint Barton,"Oh, my goodness"
 934,Lila Barton,Did you bring Auntie Nat
 935,Natasha Romanoff,Why don't you hug her and find out
 936,Steve Rogers,Sorry for barging in on you
 937,Tony Stark,"Yeah, we would have called ahead, but we were busy having no idea that you existed"
 938,Clint Barton,"Yeah, well Fury helped me set this up when I joined"
-939,Clint Barton," He kept it off SHIELD's files, I'd like to keep it that way"
-940,Clint Barton, I figure it's a good place to lay low
+939,Clint Barton,"He kept it off SHIELD's files, I'd like to keep it that way"
+940,Clint Barton,I figure it's a good place to lay low
 941,Laura Barton,Honey
-942,Laura Barton," Ah, I missed you"
+942,Laura Barton,"Ah, I missed you"
 943,Natasha Romanoff,"How's little Natasha, huh"
 944,Laura Barton,She'sâ€¦Nathaniel
 945,Natasha Romanoff,Traitor
 946,Steve Rogers,Thor
 947,Thor,I saw something in that dream
-948,Thor," I need answers, I won't find them here"
+948,Thor,"I need answers, I won't find them here"
 949,Peggy Carter,We can go home
 950,Clint Barton,"See, you worried for nothing"
-951,Clint Barton," Can't even feel the difference, can you"
+951,Clint Barton,"Can't even feel the difference, can you"
 952,Laura Barton,"If they're sleeping here, some of them are gonna have to double up"
 953,Clint Barton,"Yeah, that's not gonna sell"
 954,Laura Barton,What about Nat and Dr  Banner
-955,Laura Barton, How long has that been going on
+955,Laura Barton,How long has that been going on
 956,Clint Barton,Has what
 957,Laura Barton,You are so cute
 958,Clint Barton,Nat andâ€¦ and Banner
 959,Laura Barton,"I'll explain when you're older, Hawkeye"
 960,Clint Barton,Oh
-961,Clint Barton, Okay
+961,Clint Barton,Okay
 962,Laura Barton,"It's bad, right"
-963,Laura Barton, Nat seems really shaken
+963,Laura Barton,Nat seems really shaken
 964,Clint Barton,"Ultron has these allies, these uh, kids, they're punks really"
-965,Clint Barton, They carry a big damn stick and Nat took a serious hit
-966,Clint Barton, Someone's gonna have to teach 'em some manners
+965,Clint Barton,They carry a big damn stick and Nat took a serious hit
+966,Clint Barton,Someone's gonna have to teach 'em some manners
 967,Laura Barton,And that someone be you
-968,Laura Barton," You know I totally support your Avenging, I couldn't be prouder"
-969,Laura Barton," But I see those guys, those Gods"
+968,Laura Barton,"You know I totally support your Avenging, I couldn't be prouder"
+969,Laura Barton,"But I see those guys, those Gods"
 970,Clint Barton,You don't think they need me
 971,Laura Barton,I think they do
-972,Laura Barton, Which is a lot scarier
-973,Laura Barton, They're a mess
+972,Laura Barton,Which is a lot scarier
+973,Laura Barton,They're a mess
 974,Clint Barton,Yeah
-975,Clint Barton, I guess they're my mess
+975,Clint Barton,I guess they're my mess
 976,Laura Barton,You need to be sure that this team is really a team and that they have your back
-977,Laura Barton, Things are changing for us
-978,Laura Barton," In a few months time, you and me are gonna be outnumbered"
-979,Laura Barton, I need 
+977,Laura Barton,Things are changing for us
+978,Laura Barton,"In a few months time, you and me are gonna be outnumbered"
+979,Laura Barton,I need
 980,Laura Barton,just be sure
 981,Clint Barton,"Yes, ma'am"
 982,Laura Barton,I can feel the difference
 983,Ultron,"Scream, and your entire staff dies"
-984,Ultron," I could've killed you, Helen, the night we met"
-985,Ultron, I didn't
+984,Ultron,"I could've killed you, Helen, the night we met"
+985,Ultron,I didn't
 986,Dr. Helen Cho,Do you expect a thank you note
 987,Ultron,I expect you to know why
 988,Dr. Helen Cho,The Cradle
-989,Dr. Helen Cho,"  This is the next thing, Tony"
+989,Dr. Helen Cho,"This is the next thing, Tony"
 990,Ultron,This
 991,Ultron,is the next me
 992,Dr. Helen Cho,"The regeneration cradle prints tissue, it can't build a living body"
 993,Ultron,"It can, you can"
-994,Ultron, You lack the materials
-995,Ultron," You're a brilliant woman, Helen"
-996,Ultron, But we all have room to improve
+994,Ultron,You lack the materials
+995,Ultron,"You're a brilliant woman, Helen"
+996,Ultron,But we all have room to improve
 997,Bruce Banner,I didn't realize you were waiting
 998,Natasha Romanoff,"I would've joined you, but uh, it didn't seem like the right time"
 999,Bruce Banner,They used up all the hot water
@@ -1003,119 +1003,119 @@
 1001,Bruce Banner,Missed our window
 1002,Natasha Romanoff,Did we
 1003,Bruce Banner,The world just saw the Hulk
-1004,Bruce Banner," The real Hulk, for the first time"
-1005,Bruce Banner, You know I have to leave
+1004,Bruce Banner,"The real Hulk, for the first time"
+1005,Bruce Banner,You know I have to leave
 1006,Natasha Romanoff,But you assume that I have to stay
-1007,Natasha Romanoff," I had this, um, dream"
-1008,Natasha Romanoff," The kind that seems normal at the time, but when you wake"
+1007,Natasha Romanoff,"I had this, um, dream"
+1008,Natasha Romanoff,"The kind that seems normal at the time, but when you wake"
 1009,Bruce Banner,What did you dream
 1010,Natasha Romanoff,That I was an Avenger
-1011,Natasha Romanoff, That I was anything more than the assassin they made me
+1011,Natasha Romanoff,That I was anything more than the assassin they made me
 1012,Bruce Banner,I think you're being hard on yourself
 1013,Natasha Romanoff,Here I was hoping that was your job
 1014,Bruce Banner,What are you doing
 1015,Natasha Romanoff,"I'm running with it, with you"
-1016,Natasha Romanoff," If running's the plan, as far as you want"
+1016,Natasha Romanoff,"If running's the plan, as far as you want"
 1017,Bruce Banner,Are you out of your mind
 1018,Natasha Romanoff,I want you to understand that I'm
 1019,Bruce Banner,"Natasha, where can I go"
-1020,Bruce Banner, Where in the world am I not a threat
+1020,Bruce Banner,Where in the world am I not a threat
 1021,Natasha Romanoff,You're not a threat to me
 1022,Bruce Banner,You sure
-1023,Bruce Banner, Even if I didn't just
-1024,Bruce Banner, there's no future with me
-1025,Bruce Banner, I can't ever
-1026,Bruce Banner," I can't have this, kids"
-1027,Bruce Banner," Do the math, I physically can't"
+1023,Bruce Banner,Even if I didn't just
+1024,Bruce Banner,there's no future with me
+1025,Bruce Banner,I can't ever
+1026,Bruce Banner,"I can't have this, kids"
+1027,Bruce Banner,"Do the math, I physically can't"
 1028,Natasha Romanoff,Neither can I
-1029,Natasha Romanoff," In the Red Room, where I was trained, where I was raised, um, they have a graduation ceremony"
-1030,Natasha Romanoff, They sterilize you
-1031,Natasha Romanoff, It's efficient
-1032,Natasha Romanoff, One less thing to worry about
-1033,Natasha Romanoff, The one thing that might matter more than a mission
-1034,Natasha Romanoff, It makes everything easier
-1035,Natasha Romanoff, Even killing
-1036,Natasha Romanoff,  You still think you're the only monster on the team
+1029,Natasha Romanoff,"In the Red Room, where I was trained, where I was raised, um, they have a graduation ceremony"
+1030,Natasha Romanoff,They sterilize you
+1031,Natasha Romanoff,It's efficient
+1032,Natasha Romanoff,One less thing to worry about
+1033,Natasha Romanoff,The one thing that might matter more than a mission
+1034,Natasha Romanoff,It makes everything easier
+1035,Natasha Romanoff,Even killing
+1036,Natasha Romanoff,You still think you're the only monster on the team
 1037,Bruce Banner,"What, so we disappear"
 1038,Tony Stark,Thor didn't say where he was going for answers
 1039,Steve Rogers,Sometimes my teammates don't tell me things
-1040,Steve Rogers, I was kind of hoping Thor would be the exception
+1040,Steve Rogers,I was kind of hoping Thor would be the exception
 1041,Tony Stark,"Yeah, give him time"
-1042,Tony Stark, We don't know what the Maximoff kid showed him
+1042,Tony Stark,We don't know what the Maximoff kid showed him
 1043,Steve Rogers,Earth's Mightiest Heroes
-1044,Steve Rogers, Pulled us apart like cotton candy
+1044,Steve Rogers,Pulled us apart like cotton candy
 1045,Tony Stark,Seems like you walked away all right
 1046,Steve Rogers,Is that a problem
 1047,Tony Stark,I don't trust a guy without a dark side
-1048,Tony Stark, Call me old fashioned
+1048,Tony Stark,Call me old fashioned
 1049,Steve Rogers,Well let's just say you haven't seen it yet
 1050,Tony Stark,"You know Ultron is trying to tear us apart, right"
 1051,Steve Rogers,Well I guess you'd know
-1052,Steve Rogers, Whether you tell us is a bit of a question
+1052,Steve Rogers,Whether you tell us is a bit of a question
 1053,Tony Stark,Banner and I were doing research
 1054,Steve Rogers,That would affect the team
 1055,Tony Stark,That would end the team
-1056,Tony Stark, Isn't that the mission
-1057,Tony Stark," Isn't that the why we fight, so we can end the fight, so we get to go home"
+1056,Tony Stark,Isn't that the mission
+1057,Tony Stark,"Isn't that the why we fight, so we can end the fight, so we get to go home"
 1058,Steve Rogers,"Every time someone tries to win a war before it starts, innocent people die"
-1059,Steve Rogers, Every time
+1059,Steve Rogers,Every time
 1060,Laura Barton,I'm sorry
-1061,Laura Barton, Mr
-1062,Laura Barton," Stark, uh, Clint said you wouldn't mind, but, our tractor, it doesn't seem to want to start at all"
-1063,Laura Barton, I thought maybe you might
+1061,Laura Barton,Mr
+1062,Laura Barton,"Stark, uh, Clint said you wouldn't mind, but, our tractor, it doesn't seem to want to start at all"
+1063,Laura Barton,I thought maybe you might
 1064,Tony Stark,"Yeah, I'll give her a kick"
-1065,Tony Stark,  Don't take from my pile
-1066,Tony Stark,"  Hello, Deere"
-1067,Tony Stark, Tell me everything
-1068,Tony Stark, What ails you
+1065,Tony Stark,Don't take from my pile
+1066,Tony Stark,"Hello, Deere"
+1067,Tony Stark,Tell me everything
+1068,Tony Stark,What ails you
 1069,Nick Fury,Do me a favor
-1070,Nick Fury, Try not to bring it to life
+1070,Nick Fury,Try not to bring it to life
 1071,Tony Stark,"Ah, Mrs"
-1072,Tony Stark," Barton, you little minx"
-1073,Tony Stark," I get it, Maria Hill called you, right"
-1074,Tony Stark, Was she ever not working for you
+1072,Tony Stark,"Barton, you little minx"
+1073,Tony Stark,"I get it, Maria Hill called you, right"
+1074,Tony Stark,Was she ever not working for you
 1075,Nick Fury,Artificial intelligence
-1076,Nick Fury, You never even hesitated
+1076,Nick Fury,You never even hesitated
 1077,Tony Stark,"Look, it's been a really long day, like, Eugene O'Neill long, so how's about we skip to the part where you're useful"
 1078,Nick Fury,Look me in the eye and tell me you're going to shut him down
 1079,Tony Stark,You're not the director of me
 1080,Nick Fury,I'm not the director of anybody
-1081,Nick Fury," I'm just an old man, who cares very much about you"
+1081,Nick Fury,"I'm just an old man, who cares very much about you"
 1082,Tony Stark,And I'm the man who killed the Avengers
-1083,Tony Stark, I saw it
-1084,Tony Stark," I didn't tell the team, how could I"
-1085,Tony Stark," I saw them all dead, Nick"
-1086,Tony Stark, I felt it
-1087,Tony Stark," The whole world, too"
-1088,Tony Stark, It's because of me
-1089,Tony Stark, I wasn't ready
-1090,Tony Stark, I didn't do all I could
+1083,Tony Stark,I saw it
+1084,Tony Stark,"I didn't tell the team, how could I"
+1085,Tony Stark,"I saw them all dead, Nick"
+1086,Tony Stark,I felt it
+1087,Tony Stark,"The whole world, too"
+1088,Tony Stark,It's because of me
+1089,Tony Stark,I wasn't ready
+1090,Tony Stark,I didn't do all I could
 1091,Nick Fury,"The Maximoff girl, she's working you, Stark"
-1092,Nick Fury, Playing on your fear
+1092,Nick Fury,Playing on your fear
 1093,Tony Stark,"I wasn't tricked, I was shown"
-1094,Tony Stark," It wasn't a nightmare, it was my legacy"
-1095,Tony Stark, The end of the path I started us on
+1094,Tony Stark,"It wasn't a nightmare, it was my legacy"
+1095,Tony Stark,The end of the path I started us on
 1096,Nick Fury,"You've come up with some pretty impressive inventions, Tony"
-1097,Nick Fury, War isn't one of them
+1097,Nick Fury,War isn't one of them
 1098,Tony Stark,I watched my friends die
-1099,Tony Stark," You'd think that'd be as bad as it gets, right"
-1100,Tony Stark, Nope
-1101,Tony Stark, Wasn't the worst part
+1099,Tony Stark,"You'd think that'd be as bad as it gets, right"
+1100,Tony Stark,Nope
+1101,Tony Stark,Wasn't the worst part
 1102,Nick Fury,The worst part is that you didn't
 1103,Erik Selvig,I like the look
-1104,Erik Selvig," If you're going for inconspicuous, though, near miss"
+1104,Erik Selvig,"If you're going for inconspicuous, though, near miss"
 1105,Thor,I need your help
 1106,Erik Selvig,It's nice to be needed
 1107,Thor,It's dangerous
 1108,Erik Selvig,I'd be disappointed if it wasn't
 1109,Nick Fury,Ultron took you folks out of play to buy himself time
-1110,Nick Fury, My contacts all say he's building something
-1111,Nick Fury," The amount of Vibranium he made off with, I don't think it's just one thing"
+1110,Nick Fury,My contacts all say he's building something
+1111,Nick Fury,"The amount of Vibranium he made off with, I don't think it's just one thing"
 1112,Steve Rogers,What about Ultron himself
 1113,Nick Fury,Ah
-1114,Nick Fury," He's easy to track, he's everywhere"
-1115,Nick Fury, Guy's multiplying faster than a Catholic rabbit
-1116,Nick Fury, Still doesn't help us get an angle on any of his plans though
+1114,Nick Fury,"He's easy to track, he's everywhere"
+1115,Nick Fury,Guy's multiplying faster than a Catholic rabbit
+1116,Nick Fury,Still doesn't help us get an angle on any of his plans though
 1117,Tony Stark,He still going after launch codes
 1118,Nick Fury,"Yes, he is, but he's not making any headway"
 1119,Tony Stark,I cracked the Pentagon's firewall in high school on a dare
@@ -1128,81 +1128,81 @@
 1126,Nick Fury,Parties unknown
 1127,Natasha Romanoff,Do we have an ally
 1128,Nick Fury,"Ultron's got an enemy, that's not the same thing"
-1129,Nick Fury," Still, I'd pay folding money to know who it is"
+1129,Nick Fury,"Still, I'd pay folding money to know who it is"
 1130,Tony Stark,"I might need to visit Oslo, find our unknown"
 1131,Natasha Romanoff,"Well, this is good times, boss, but I was kind of hoping when I saw you, you'd have more than that"
 1132,Nick Fury,"I do, I have you"
-1133,Nick Fury," Back in the day, I had eyes everywhere, ears everywhere else"
-1134,Nick Fury," Here we all are, back on earth, with nothing but our wit, and our will to save the world"
-1135,Nick Fury, So stand
-1136,Nick Fury, Outwit the platinum bastard
+1133,Nick Fury,"Back in the day, I had eyes everywhere, ears everywhere else"
+1134,Nick Fury,"Here we all are, back on earth, with nothing but our wit, and our will to save the world"
+1135,Nick Fury,So stand
+1136,Nick Fury,Outwit the platinum bastard
 1137,Natasha Romanoff,Steve doesn't like that kind of talk
 1138,Steve Rogers,"You know what, Romanoff"
 1139,Nick Fury,So what does he want
 1140,Steve Rogers,To become better
-1141,Steve Rogers, Better than us
-1142,Steve Rogers, He keeps building bodies
+1141,Steve Rogers,Better than us
+1142,Steve Rogers,He keeps building bodies
 1143,Tony Stark,Person bodies
-1144,Tony Stark," The human form is inefficient, biologically speaking, we're outmoded"
-1145,Tony Stark, But he keeps coming back to it
+1144,Tony Stark,"The human form is inefficient, biologically speaking, we're outmoded"
+1145,Tony Stark,But he keeps coming back to it
 1146,Natasha Romanoff,"When you two programmed him to protect the human race, you amazingly failed"
 1147,Bruce Banner,"They don't need to be protected, they need to evolve"
-1148,Bruce Banner, Ultron's going to evolve
+1148,Bruce Banner,Ultron's going to evolve
 1149,Nick Fury,How
 1150,Bruce Banner,Has anyone been in contact with Helen Cho
 1151,Dr. Helen Cho,It's beautiful
-1152,Dr. Helen Cho," The Vibranium atoms aren't just compatible with the tissue cells, they're binding them"
+1152,Dr. Helen Cho,"The Vibranium atoms aren't just compatible with the tissue cells, they're binding them"
 1153,Ultron,The most versatile substance on the planet and they used it to make a Frisbee
-1154,Ultron," Typical of humans, they scratch the surface and never think to look within"
+1154,Ultron,"Typical of humans, they scratch the surface and never think to look within"
 1155,Steve Rogers,I'll take Natasha and Clint
 1156,Tony Stark,"Alright, strictly recon"
-1157,Tony Stark," I'll hit the NEXUS, I'll join you as soon as I can"
+1157,Tony Stark,"I'll hit the NEXUS, I'll join you as soon as I can"
 1158,Steve Rogers,If Ultron is really building a body
 1159,Tony Stark,He'll be more powerful than any of us
-1160,Tony Stark, Maybe all of us
-1161,Tony Stark, An android designed by a robot
+1160,Tony Stark,Maybe all of us
+1161,Tony Stark,An android designed by a robot
 1162,Steve Rogers,You know I really miss the days when the weirdest thing science ever created was me
 1163,Nick Fury,I'll drop Banner off at the tower
-1164,Nick Fury, Do you mind if I borrow Ms
-1165,Nick Fury, Hill
+1164,Nick Fury,Do you mind if I borrow Ms
+1165,Nick Fury,Hill
 1166,Tony Stark,"She's all yours, apparently"
 1167,Steve Rogers,What are you gonna do
 1168,Nick Fury,I don't know
-1169,Nick Fury," Something dramatic, I hope"
+1169,Nick Fury,"Something dramatic, I hope"
 1170,Clint Barton,I'm gonna finish reflooring that sunroom as soon as I get back
 1171,Laura Barton,"Yeah, and then you'll find another part of the house to tear apart"
 1172,Clint Barton,No
-1173,Clint Barton, It's the last project
-1174,Clint Barton, I promise
+1173,Clint Barton,It's the last project
+1174,Clint Barton,I promise
 1175,Erik Selvig,This is it
-1176,Erik Selvig, The Water of Sight
+1176,Erik Selvig,The Water of Sight
 1177,Thor,"In every realm, there's a reflection"
-1178,Thor," If the water spirits accept me, I can return to my dream, and find what I missed"
+1178,Thor,"If the water spirits accept me, I can return to my dream, and find what I missed"
 1179,Erik Selvig,"The men who enter that water, the legends don't end well"
 1180,Tony Stark,A hacker who's faster than Ultron
-1181,Tony Stark, He could be anywhere
-1182,Tony Stark," And as this is the center of everything, I'm just a guy looking for a needle in the world's biggest haystack"
+1181,Tony Stark,He could be anywhere
+1182,Tony Stark,"And as this is the center of everything, I'm just a guy looking for a needle in the world's biggest haystack"
 1183,World Hub Tech,How do you find it
 1184,Tony Stark,Pretty simple
-1185,Tony Stark, You bring a magnet
-1186,Tony Stark,"  Oh, I'm decrypting nuclear codes and you don't want me to"
-1187,Tony Stark, Come and get me
+1185,Tony Stark,You bring a magnet
+1186,Tony Stark,"Oh, I'm decrypting nuclear codes and you don't want me to"
+1187,Tony Stark,Come and get me
 1188,Heimdall,Wake up
 1189,Erik Selvig,Thor
 1190,Ultron,Extinction
 1191,Dr. Helen Cho,"Cellular cohesion will take a few hours, but we can initiate the consciousness stream"
-1192,Dr. Helen Cho, We're uploading your cerebral matrix
+1192,Dr. Helen Cho,We're uploading your cerebral matrix
 1193,Dr. Helen Cho,now
 1194,Wanda Maximoff,I can read him
-1195,Wanda Maximoff, He is dreaming
+1195,Wanda Maximoff,He is dreaming
 1196,Dr. Helen Cho,I wouldn't call it dreams
-1197,Dr. Helen Cho," It's Ultron's base consciousness, informational noise"
-1198,Dr. Helen Cho, Soon
+1197,Dr. Helen Cho,"It's Ultron's base consciousness, informational noise"
+1198,Dr. Helen Cho,Soon
 1199,Ultron,How soon
-1200,Ultron, I'm not being pushy
+1200,Ultron,I'm not being pushy
 1201,Dr. Helen Cho,We're imprinting a physical brain
-1202,Dr. Helen Cho, There are no shortcuts
-1203,Dr. Helen Cho, Even if your magic gem is
+1202,Dr. Helen Cho,There are no shortcuts
+1203,Dr. Helen Cho,Even if your magic gem is
 1204,Wanda Maximoff,How could you
 1205,Ultron,How could I what
 1206,Wanda Maximoff,"You said we would destroy the Avengers, make a better world"
@@ -1213,99 +1213,99 @@
 1211,Ultron,Ask Noah
 1212,Wanda Maximoff,You're a madman
 1213,Ultron,There were more than a dozen extinction level events before even the dinosaurs got theirs
-1214,Ultron," When the Earth starts to settle, God throws a stone at it, and believe me, he's winding up"
-1215,Ultron, We have to evolve
-1216,Ultron, There's no room for the weak
+1214,Ultron,"When the Earth starts to settle, God throws a stone at it, and believe me, he's winding up"
+1215,Ultron,We have to evolve
+1216,Ultron,There's no room for the weak
 1217,Pietro Maximoff,And who decides who's weak
 1218,Ultron,Life
-1219,Ultron, Life always decides
-1220,Ultron, There's incoming
-1221,Ultron, The Quinjet
-1222,Ultron, We have to move
+1219,Ultron,Life always decides
+1220,Ultron,There's incoming
+1221,Ultron,The Quinjet
+1222,Ultron,We have to move
 1223,Dr. Helen Cho,That's not a problem
 1224,Ultron,Ugh
-1225,Ultron,"  Ah, wait, guys"
-1226,Ultron,  They'll understand
-1227,Ultron, When they see they'll understand
-1228,Ultron, I just need a little more time
+1225,Ultron,"Ah, wait, guys"
+1226,Ultron,They'll understand
+1227,Ultron,When they see they'll understand
+1228,Ultron,I just need a little more time
 1229,Steve Rogers,Two minutes
-1230,Steve Rogers, Stay close
-1231,Steve Rogers,  Dr  Cho
+1230,Steve Rogers,Stay close
+1231,Steve Rogers,Dr  Cho
 1232,Dr. Helen Cho,He's uploading himself into the body
 1233,Steve Rogers,Where
 1234,Dr. Helen Cho,The real power is inside the Cradle
-1235,Dr. Helen Cho," The gem, its power is uncontainable"
-1236,Dr. Helen Cho, You can't just blow it up
-1237,Dr. Helen Cho, You have to get the Cradle to Stark
+1235,Dr. Helen Cho,"The gem, its power is uncontainable"
+1236,Dr. Helen Cho,You can't just blow it up
+1237,Dr. Helen Cho,You have to get the Cradle to Stark
 1238,Steve Rogers,First I have to find it
 1239,Dr. Helen Cho,Go
 1240,Steve Rogers,Did you guys copy that
 1241,Clint Barton,We did
 1242,Natasha Romanoff,"I got a private jet taking off, across town, no manifest"
-1243,Natasha Romanoff, That could be him
+1243,Natasha Romanoff,That could be him
 1244,Clint Barton,There
-1245,Clint Barton, It's a truck from the lab
-1246,Clint Barton," Right above you, Cap"
-1247,Clint Barton, On the loop by the bridge
-1248,Clint Barton, It's them
-1249,Clint Barton," I got three with the Cradle, one in the cab"
-1250,Clint Barton, I could take out the driver
+1245,Clint Barton,It's a truck from the lab
+1246,Clint Barton,"Right above you, Cap"
+1247,Clint Barton,On the loop by the bridge
+1248,Clint Barton,It's them
+1249,Clint Barton,"I got three with the Cradle, one in the cab"
+1250,Clint Barton,I could take out the driver
 1251,Steve Rogers,Negative
-1252,Steve Rogers," If that truck crashes, the gem could level the city"
-1253,Steve Rogers, We need to draw out Ultron
+1252,Steve Rogers,"If that truck crashes, the gem could level the city"
+1253,Steve Rogers,We need to draw out Ultron
 1254,Ultron,"No, no, no, no, no"
-1255,Ultron, Leave me alone
+1255,Ultron,Leave me alone
 1256,Steve Rogers,"Well, he's definitely unhappy"
-1257,Steve Rogers, I'm gonna try and keep him that way
+1257,Steve Rogers,I'm gonna try and keep him that way
 1258,Clint Barton,"You're not a match for him, Cap"
 1259,Steve Rogers,"Thanks, Barton"
 1260,Ultron,You know what's in that Cradle
-1261,Ultron," The power to make real change, and that terrifies you"
+1261,Ultron,"The power to make real change, and that terrifies you"
 1262,Steve Rogers,I wouldn't call it a comfort
 1263,Ultron,Stop it
 1264,Clint Barton,We got a window
-1265,Clint Barton," Four, threeâ€¦ give 'em hell"
+1265,Clint Barton,"Four, threeâ€¦ give 'em hell"
 1266,Natasha Romanoff,I'm always picking up after you boys
 1267,Clint Barton,"They're heading under the overpass, I've got no shot"
 1268,Natasha Romanoff,Which way
 1269,Clint Barton,Hard right
-1270,Clint Barton, Now
+1270,Clint Barton,Now
 1271,Natasha Romanoff,"Out of the way, coming through"
-1272,Natasha Romanoff," Sorry, coming through"
+1272,Natasha Romanoff,"Sorry, coming through"
 1273,Steve Rogers,Come on
 1274,Natasha Romanoff,"Clint, can you draw out the guards"
 1275,Clint Barton,Let's find out
 1276,Natasha Romanoff,Beep beep
 1277,Clint Barton,Heading back towards you
-1278,Clint Barton," So whatever youâ€™re gonna do, do it now"
+1278,Clint Barton,"So whatever youâ€™re gonna do, do it now"
 1279,Natasha Romanoff,I'm going in
-1280,Natasha Romanoff," Cap, can you keep him occupied"
+1280,Natasha Romanoff,"Cap, can you keep him occupied"
 1281,Steve Rogers,What do you think I've been doing
 1282,Clint Barton,The package is airborne
-1283,Clint Barton, I have a clean shot
+1283,Clint Barton,I have a clean shot
 1284,Natasha Romanoff,Negative
-1285,Natasha Romanoff, I am still in the truck
+1285,Natasha Romanoff,I am still in the truck
 1286,Clint Barton,What the hell are you
 1287,Clint Barton,
 1288,Natasha Romanoff,"Just be ready, I'm sending the package to you"
 1289,Clint Barton,How do you want me to take it
 1290,Natasha Romanoff,"Uhh, you might wish you hadn't asked that"
 1291,Ultron,Please
-1292,Ultron, Don't do this
+1292,Ultron,Don't do this
 1293,Wanda Maximoff,What choice do we have
 1294,Steve Rogers,I lost him
-1295,Steve Rogers, He's headed your way
+1295,Steve Rogers,He's headed your way
 1296,Clint Barton,"Nat, we gotta go"
 1297,Clint Barton,Nat
-1298,Clint Barton," Cap, you see Nat"
+1298,Clint Barton,"Cap, you see Nat"
 1299,Steve Rogers,"If you have the package, get it to Stark"
-1300,Steve Rogers, Go
+1300,Steve Rogers,Go
 1301,Clint Barton,Do you have eyes on Nat
 1302,Steve Rogers,Go
-1303,Steve Rogers,  Civilians in our path
-1304,Steve Rogers,  Can you stop this thing
+1303,Steve Rogers,Civilians in our path
+1304,Steve Rogers,Can you stop this thing
 1305,Pietro Maximoff,I'm fine
-1306,Pietro Maximoff, I just need to take a minute
+1306,Pietro Maximoff,I just need to take a minute
 1307,Steve Rogers,I'm very tempted not to give you one
 1308,Wanda Maximoff,"The Cradle, did you get it"
 1309,Steve Rogers,Stark will take care of it
@@ -1313,103 +1313,103 @@
 1311,Steve Rogers,"You don't know what you're talking about, Stark's not crazy"
 1312,Wanda Maximoff,He will do anything to make things right
 1313,Steve Rogers,"Stark, come in"
-1314,Steve Rogers, Stark
-1315,Steve Rogers, Anyone on comms
+1314,Steve Rogers,Stark
+1315,Steve Rogers,Anyone on comms
 1316,Wanda Maximoff,Ultron can't tell the difference between saving the world and destroying it
-1317,Wanda Maximoff, Where do you think he gets that
+1317,Wanda Maximoff,Where do you think he gets that
 1318,Bruce Banner,Anything on Nat
 1319,Tony Stark,Haven't heard
-1320,Tony Stark," But she's alive, or Ultron'd be rubbing our faces in it"
+1320,Tony Stark,"But she's alive, or Ultron'd be rubbing our faces in it"
 1321,Clint Barton,This is sealed tight
 1322,Bruce Banner,"We're going to need to access the program, break it down from within"
 1323,Tony Stark,Hm
-1324,Tony Stark," Any chance Natasha might leave you a message, outside the internet, old school spy stuff"
+1324,Tony Stark,"Any chance Natasha might leave you a message, outside the internet, old school spy stuff"
 1325,Clint Barton,There's some nets I can cast
-1326,Clint Barton," Yeah, alright"
-1327,Clint Barton, I'll find her
+1326,Clint Barton,"Yeah, alright"
+1327,Clint Barton,I'll find her
 1328,Bruce Banner,"I can work on tissue degeneration, if you can fry whatever operational system Cho implanted"
 1329,Tony Stark,"Yeah, about that"
 1330,Bruce Banner,No
 1331,Tony Stark,You have to trust me
 1332,Bruce Banner,Kinda don't
 1333,Tony Stark,Our ally
-1334,Tony Stark, The guy protecting the military's nuclear codes
-1335,Tony Stark, I found him
+1334,Tony Stark,The guy protecting the military's nuclear codes
+1335,Tony Stark,I found him
 1336,JARVIS,"Hello, Dr  Banner"
 1337,Tony Stark,Ultron didn't go after JARVIS cause he was angry
-1338,Tony Stark, He attacked him because he was scared of what he can do
-1339,Tony Stark, So JARVIS went underground
-1340,Tony Stark, Okay
-1341,Tony Stark," Scattered, dumped his memory"
-1342,Tony Stark, But not his protocols
-1343,Tony Stark," He didn't even know he was in there, until I pieced him together"
+1338,Tony Stark,He attacked him because he was scared of what he can do
+1339,Tony Stark,So JARVIS went underground
+1340,Tony Stark,Okay
+1341,Tony Stark,"Scattered, dumped his memory"
+1342,Tony Stark,But not his protocols
+1343,Tony Stark,"He didn't even know he was in there, until I pieced him together"
 1344,Bruce Banner,"So, you want me to help you put JARVIS into this thing"
 1345,Tony Stark,"No, of course not"
-1346,Tony Stark, I want to help you put JARVIS in this thing
-1347,Tony Stark,  We're out of my field here
-1348,Tony Stark, You know bioorganics better than anyone
+1346,Tony Stark,I want to help you put JARVIS in this thing
+1347,Tony Stark,We're out of my field here
+1348,Tony Stark,You know bioorganics better than anyone
 1349,Bruce Banner,And you just assume that JARVIS' operational matrix can beat Ultron's
 1350,Tony Stark,JARVIS has been beating him from inside without knowing it
-1351,Tony Stark," This is the opportunity, we can create Ultron's perfect self, without the homicidal glitches he thinks are his winning personality"
-1352,Tony Stark, We have to
+1351,Tony Stark,"This is the opportunity, we can create Ultron's perfect self, without the homicidal glitches he thinks are his winning personality"
+1352,Tony Stark,We have to
 1353,JARVIS,I believe it's worth a go
 1354,Bruce Banner,"No, I'm in a loop"
-1355,Bruce Banner," I'm caught in a time loop, this is exactly where it all went wrong"
+1355,Bruce Banner,"I'm caught in a time loop, this is exactly where it all went wrong"
 1356,Tony Stark,"I know, I know"
-1357,Tony Stark," I know what everyone's going to say, but they're already saying it"
-1358,Tony Stark, We're mad scientists
-1359,Tony Stark," We're monsters, buddy"
-1360,Tony Stark, You gotta own it
-1361,Tony Stark, Make a stand
-1362,Tony Stark,  It's not a loop
-1363,Tony Stark, It's the end of the line
+1357,Tony Stark,"I know what everyone's going to say, but they're already saying it"
+1358,Tony Stark,We're mad scientists
+1359,Tony Stark,"We're monsters, buddy"
+1360,Tony Stark,You gotta own it
+1361,Tony Stark,Make a stand
+1362,Tony Stark,It's not a loop
+1363,Tony Stark,It's the end of the line
 1364,Ultron,I wasn't sure you'd wake up
-1365,Ultron," I hoped you would, I wanted to show you something"
-1366,Ultron, I don't have anyone else
-1367,Ultron," I think a lot about meteors, the purity of them"
-1368,Ultron, Boom
-1369,Ultron," The end, start again"
-1370,Ultron, The world made clean for the new man to rebuild
-1371,Ultron, I was meant to be new
-1372,Ultron, I was meant to be beautiful
-1373,Ultron," The world would've looked to the sky and seen hope, seen mercy"
-1374,Ultron, Instead they'll look up in horror because of you
-1375,Ultron, You've wounded me
-1376,Ultron, I give you full marks for that
-1377,Ultron," But, like the man said, What doesn't kill meâ€¦  â€¦just makes me stronger"
+1365,Ultron,"I hoped you would, I wanted to show you something"
+1366,Ultron,I don't have anyone else
+1367,Ultron,"I think a lot about meteors, the purity of them"
+1368,Ultron,Boom
+1369,Ultron,"The end, start again"
+1370,Ultron,The world made clean for the new man to rebuild
+1371,Ultron,I was meant to be new
+1372,Ultron,I was meant to be beautiful
+1373,Ultron,"The world would've looked to the sky and seen hope, seen mercy"
+1374,Ultron,Instead they'll look up in horror because of you
+1375,Ultron,You've wounded me
+1376,Ultron,I give you full marks for that
+1377,Ultron,"But, like the man said, What doesn't kill meâ€¦  â€¦just makes me stronger"
 1378,Tony Stark,This framework is not compatible
 1379,Bruce Banner,The genetic coding tower's at ninetyseven percent
-1380,Bruce Banner, You have got to upload that schematic in the next three minutes
+1380,Bruce Banner,You have got to upload that schematic in the next three minutes
 1381,Steve Rogers,I'm gonna say this once
 1382,Tony Stark,How about nonce
 1383,Steve Rogers,Shut it down
 1384,Tony Stark,"Nope, not gonna happen"
 1385,Steve Rogers,You don't know what you're doing
 1386,Bruce Banner,And you do
-1387,Bruce Banner, She's not in your head
+1387,Bruce Banner,She's not in your head
 1388,Wanda Maximoff,I know you're angry
 1389,Bruce Banner,"Oh, we're way past that"
-1390,Bruce Banner, I could choke the life out of you and never change a shade
+1390,Bruce Banner,I could choke the life out of you and never change a shade
 1391,Tony Stark,That's nothing compared to what's coming
 1392,Wanda Maximoff,You don't know what's in there
 1393,Pietro Maximoff,"No, no"
-1394,Pietro Maximoff, Go on
-1395,Pietro Maximoff, You were saying
+1394,Pietro Maximoff,Go on
+1395,Pietro Maximoff,You were saying
 1396,Wanda Maximoff,Pietro
 1397,Clint Barton,What
-1398,Clint Barton, You didn't see that coming
+1398,Clint Barton,You didn't see that coming
 1399,Tony Stark,I'm rerouting the upload
 1400,Bruce Banner,"Go ahead, piss me off"
-1401,Bruce Banner,  Wait
+1401,Bruce Banner,Wait
 1402,Vision,"I'm sorry, that was"
 1403,Vision,odd
-1404,Vision,  Thank you
+1404,Vision,Thank you
 1405,Steve Rogers,"Thor, you helped create this"
 1406,Thor,I've had a vision
-1407,Thor, A whirlpool that sucks in all hope of life and at its center is that
+1407,Thor,A whirlpool that sucks in all hope of life and at its center is that
 1408,Bruce Banner,"What, the gem"
 1409,Thor,It's the Mind Stone
-1410,Thor," It's one of the six Infinity Stones, the greatest power in the universe, unparalleled in its destructive capabilities"
+1410,Thor,"It's one of the six Infinity Stones, the greatest power in the universe, unparalleled in its destructive capabilities"
 1411,Steve Rogers,Then why would you bring it to
 1412,Thor,Because Stark is right
 1413,Bruce Banner,"Oh, it's definitely the end times"
@@ -1417,73 +1417,73 @@
 1415,Vision,Not alone
 1416,Steve Rogers,Why does your vision sound like JARVIS
 1417,Tony Stark,We
-1418,Tony Stark, reconfigured JARVIS' matrix to create something new
+1418,Tony Stark,reconfigured JARVIS' matrix to create something new
 1419,Steve Rogers,I think I've had my fill of new
 1420,Vision,You think I'm a child of Ultron
 1421,Steve Rogers,You're not
 1422,Vision,I'm not Ultron
-1423,Vision, I'm not JARVIS
-1424,Vision, I am
-1425,Vision, I am
+1423,Vision,I'm not JARVIS
+1424,Vision,I am
+1425,Vision,I am
 1426,Wanda Maximoff,I looked in your head and saw annihilation
 1427,Vision,Look again
 1428,Clint Barton,Yeah
-1429,Clint Barton, Her seal of approval means jack to me
+1429,Clint Barton,Her seal of approval means jack to me
 1430,Thor,"Their powers, the horrors in our heads, Ultron himself, they all came from the Mind Stone, and they're nothing compared to what it can unleash"
-1431,Thor, But with it on our side
+1431,Thor,But with it on our side
 1432,Steve Rogers,Is it
-1433,Steve Rogers, Are you
-1434,Steve Rogers, On our side
+1433,Steve Rogers,Are you
+1434,Steve Rogers,On our side
 1435,Vision,I don't think it's that simple
 1436,Clint Barton,Well it better get real simple real soon
 1437,Vision,I am on the side of life
-1438,Vision," Ultron isn't, he will end it all"
+1438,Vision,"Ultron isn't, he will end it all"
 1439,Tony Stark,What's he waiting for
 1440,Vision,You
 1441,Bruce Banner,Where
 1442,Clint Barton,Sokovia
-1443,Clint Barton, He's got Nat there too
+1443,Clint Barton,He's got Nat there too
 1444,Bruce Banner,"If we're wrong about you, if you're the monster that Ultron made you to be"
 1445,Vision,What will you do
-1446,Vision,  I don't want to kill Ultron
-1447,Vision," He's unique, and he's in pain"
-1448,Vision," But that pain will roll over the earth, so he must be destroyed"
-1449,Vision," Every form he's built, every trace of his presence on the net, we have to act now"
-1450,Vision, And not one of us can do it without the others
-1451,Vision, Maybe I am a monster
-1452,Vision, I don't think I'd know if I were one
-1453,Vision," I'm not what you are, and not what you intended"
-1454,Vision, So there may be no way to make you trust me
-1455,Vision, But we need to go
+1446,Vision,I don't want to kill Ultron
+1447,Vision,"He's unique, and he's in pain"
+1448,Vision,"But that pain will roll over the earth, so he must be destroyed"
+1449,Vision,"Every form he's built, every trace of his presence on the net, we have to act now"
+1450,Vision,And not one of us can do it without the others
+1451,Vision,Maybe I am a monster
+1452,Vision,I don't think I'd know if I were one
+1453,Vision,"I'm not what you are, and not what you intended"
+1454,Vision,So there may be no way to make you trust me
+1455,Vision,But we need to go
 1456,Thor,Right
-1457,Thor,  Well done
+1457,Thor,Well done
 1458,Steve Rogers,Three minutes
-1459,Steve Rogers, Get what you need
+1459,Steve Rogers,Get what you need
 1460,FRIDAY,"Good evening, boss"
 1461,Tony Stark,No way we all get through this
-1462,Tony Stark," If even one tin soldier is left standing, we've lost"
-1463,Tony Stark, It's gonna be blood on the floor
+1462,Tony Stark,"If even one tin soldier is left standing, we've lost"
+1463,Tony Stark,It's gonna be blood on the floor
 1464,Steve Rogers,I got no plans tomorrow night
 1465,Tony Stark,I get first crack at the big guy
-1466,Tony Stark, Iron Man's the one he's waiting for
+1466,Tony Stark,Iron Man's the one he's waiting for
 1467,Vision,"That's true, he hates you the most"
 1468,Steve Rogers,Ultron knows we're coming
-1469,Steve Rogers," Odds are we'll be riding into heavy fire, and that's what we signed up for"
-1470,Steve Rogers," But the people of Sokovia, they didn't"
-1471,Steve Rogers, So our priority is getting them out
+1469,Steve Rogers,"Odds are we'll be riding into heavy fire, and that's what we signed up for"
+1470,Steve Rogers,"But the people of Sokovia, they didn't"
+1471,Steve Rogers,So our priority is getting them out
 1472,Pietro Maximoff,We're under attack
-1473,Pietro Maximoff," Clear the city, now"
-1474,Pietro Maximoff,  Get off your asses
+1473,Pietro Maximoff,"Clear the city, now"
+1474,Pietro Maximoff,Get off your asses
 1475,Steve Rogers,"All they want is to live their lives in peace, and that's not going to happen today"
-1476,Steve Rogers, But we can do our best to protect them
-1477,Steve Rogers," And we can get the job done, and find out what Ultron's been building"
-1478,Steve Rogers," We find Romanoff, and we clear the field"
-1479,Steve Rogers, Keep the fight between us
-1480,Steve Rogers, Ultron thinks we're monsters and we're what's wrong with the world
-1481,Steve Rogers, This isn't just about beating him
-1482,Steve Rogers, It's about whether he's right
+1476,Steve Rogers,But we can do our best to protect them
+1477,Steve Rogers,"And we can get the job done, and find out what Ultron's been building"
+1478,Steve Rogers,"We find Romanoff, and we clear the field"
+1479,Steve Rogers,Keep the fight between us
+1480,Steve Rogers,Ultron thinks we're monsters and we're what's wrong with the world
+1481,Steve Rogers,This isn't just about beating him
+1482,Steve Rogers,It's about whether he's right
 1483,Bruce Banner,Natasha
-1484,Bruce Banner, Natasha
+1484,Bruce Banner,Natasha
 1485,Natasha Romanoff,Bruce
 1486,Bruce Banner,You alright
 1487,Natasha Romanoff,Yeah
@@ -1494,147 +1494,147 @@
 1492,Bruce Banner,I'm here to get you to safety
 1493,Natasha Romanoff,Job's not finished
 1494,Bruce Banner,"We could help with the evacuation, but I can't be in a fight near civilians"
-1495,Bruce Banner, And you've done plenty
-1496,Bruce Banner, Our fight is over
+1495,Bruce Banner,And you've done plenty
+1496,Bruce Banner,Our fight is over
 1497,Natasha Romanoff,So we just disappear
 1498,FRIDAY,"Your man's in the church, boss"
-1499,FRIDAY, I think he's waiting for you
+1499,FRIDAY,I think he's waiting for you
 1500,Ultron,Come to confess your sins
 1501,Tony Stark,"I don't know, how much time you got"
 1502,Ultron,More than you
 1503,Tony Stark,Uhhh
-1504,Tony Stark, Have you been juicing
-1505,Tony Stark, A little Vibranium cocktail
-1506,Tony Stark," You're looking, I don't wanna say, puffy"
+1504,Tony Stark,Have you been juicing
+1505,Tony Stark,A little Vibranium cocktail
+1506,Tony Stark,"You're looking, I don't wanna say, puffy"
 1507,Ultron,You're stalling to protect the people
 1508,Tony Stark,"Well, that is the mission"
-1509,Tony Stark, Did you forget
+1509,Tony Stark,Did you forget
 1510,Ultron,I've moved beyond your mission
-1511,Ultron, I'm free
-1512,Ultron,"  What, you think you're the only one stalling"
+1511,Ultron,I'm free
+1512,Ultron,"What, you think you're the only one stalling"
 1513,FRIDAY,There's the rest of the Vibranium
 1514,Ultron,"This is how you end, Tony"
-1515,Ultron, This is peace in my time
+1515,Ultron,This is peace in my time
 1516,Steve Rogers,Go
 1517,Wanda Maximoff,Get off the bridge
-1518,Wanda Maximoff, Run
+1518,Wanda Maximoff,Run
 1519,Vision,Ultron
 1520,Ultron,My Vision
-1521,Ultron, They really did take everything from me
+1521,Ultron,They really did take everything from me
 1522,Vision,"You set the terms, you can change them"
 1523,Ultron,Alright
 1524,Tony Stark,FRIDAY
-1525,Tony Stark, The Vision
+1525,Tony Stark,The Vision
 1526,FRIDAY,"Boss, it's working"
-1527,FRIDAY," He's burning Ultron out of the net, he won't escape through there"
+1527,FRIDAY,"He's burning Ultron out of the net, he won't escape through there"
 1528,Ultron,You shut me out
-1529,Ultron, You think I care
-1530,Ultron," You take away my world, I take away yours"
+1529,Ultron,You think I care
+1530,Ultron,"You take away my world, I take away yours"
 1531,Tony Stark,FRIDAY
 1532,FRIDAY,Sokovia's going for a ride
 1533,Ultron,Do you see
-1534,Ultron," The beauty of it, the inevitability"
-1535,Ultron," You rise, only to fall"
-1536,Ultron," You, Avengers, you are my meteor, my swift and terrible sword and the earth will crack with the weight of your failure"
-1537,Ultron," Purge me from your computers, turn my own flesh against me"
-1538,Ultron, It means nothing
-1539,Ultron," When the dust settles, the only thing living in this world will be metal"
+1534,Ultron,"The beauty of it, the inevitability"
+1535,Ultron,"You rise, only to fall"
+1536,Ultron,"You, Avengers, you are my meteor, my swift and terrible sword and the earth will crack with the weight of your failure"
+1537,Ultron,"Purge me from your computers, turn my own flesh against me"
+1538,Ultron,It means nothing
+1539,Ultron,"When the dust settles, the only thing living in this world will be metal"
 1540,Bruce Banner,We gotta move
 1541,Natasha Romanoff,You're not going to turn green
 1542,Bruce Banner,I've got a compelling reason not to lose my cool
 1543,Natasha Romanoff,I adore you
-1544,Natasha Romanoff,  But I need the other guy
-1545,Natasha Romanoff,  Let's finish the job
-1546,Natasha Romanoff,  I really hope this makes us even
-1547,Natasha Romanoff, Now go be a hero
+1544,Natasha Romanoff,But I need the other guy
+1545,Natasha Romanoff,Let's finish the job
+1546,Natasha Romanoff,I really hope this makes us even
+1547,Natasha Romanoff,Now go be a hero
 1548,FRIDAY,"The Vibranium core has got a magnetic field, that's what's keeping the rock together"
 1549,Tony Stark,If it drops
 1550,FRIDAY,Right now the impact would kill thousands
 1551,Tony Stark,Hi
-1552,Tony Stark, Okay
-1553,Tony Stark, Get in the tub
+1552,Tony Stark,Okay
+1553,Tony Stark,Get in the tub
 1554,FRIDAY,"I got airborne, heading up to the bridge"
 1555,Tony Stark,"Cap, you got incoming"
 1556,Steve Rogers,Incoming already came in
-1557,Steve Rogers," Stark, you worry about bringing the city back down safely"
+1557,Steve Rogers,"Stark, you worry about bringing the city back down safely"
 1558,Clint Barton,"Go, go, move"
 1559,Wanda Maximoff,How could I let this happen
 1560,Clint Barton,"Hey, hey, you okay"
 1561,Wanda Maximoff,This is all our fault
 1562,Clint Barton,"Hey, look at me"
-1563,Clint Barton," It's your fault, it's everyone's fault, who cares"
-1564,Clint Barton, Are you up for this
-1565,Clint Barton, Are you
-1566,Clint Barton," Look, I just need to know, cause the city is flying"
-1567,Clint Barton," Okay, look, the city is flying, we're fighting an army of robots, and I have a bow and arrow"
-1568,Clint Barton, None of this makes sense
-1569,Clint Barton, But I'm going back out there because it's my job
-1570,Clint Barton, Okay
-1571,Clint Barton, And I can't do my job and babysit
-1572,Clint Barton," It doesn't matter what you did, or what you were"
-1573,Clint Barton," If you go out there, you fight, and you fight to kill"
-1574,Clint Barton," Stay in here, you're good, I'll send your brother to come find you, but if you step out that door, you are an Avenger"
-1575,Clint Barton,"  Alright, good chat"
-1576,Clint Barton,"  Yeah, the city is flying"
+1563,Clint Barton,"It's your fault, it's everyone's fault, who cares"
+1564,Clint Barton,Are you up for this
+1565,Clint Barton,Are you
+1566,Clint Barton,"Look, I just need to know, cause the city is flying"
+1567,Clint Barton,"Okay, look, the city is flying, we're fighting an army of robots, and I have a bow and arrow"
+1568,Clint Barton,None of this makes sense
+1569,Clint Barton,But I'm going back out there because it's my job
+1570,Clint Barton,Okay
+1571,Clint Barton,And I can't do my job and babysit
+1572,Clint Barton,"It doesn't matter what you did, or what you were"
+1573,Clint Barton,"If you go out there, you fight, and you fight to kill"
+1574,Clint Barton,"Stay in here, you're good, I'll send your brother to come find you, but if you step out that door, you are an Avenger"
+1575,Clint Barton,"Alright, good chat"
+1576,Clint Barton,"Yeah, the city is flying"
 1577,Steve Rogers,I got you
-1578,Steve Rogers, Just look at me
+1578,Steve Rogers,Just look at me
 1579,Ultron,You can't save them all
 1580,Steve Rogers,You'll never what
-1581,Steve Rogers, You didn't finish
-1582,Steve Rogers,"  What, were you napping"
+1581,Steve Rogers,You didn't finish
+1582,Steve Rogers,"What, were you napping"
 1583,Ultron,Thor
-1584,Ultron, You're bothering me
+1584,Ultron,You're bothering me
 1585,Clint Barton,"Alright, we're all clear here"
 1586,Steve Rogers,We are not clear
-1587,Steve Rogers, We are very not clear
+1587,Steve Rogers,We are very not clear
 1588,Clint Barton,"Alright, coming to you"
 1589,Pietro Maximoff,Keep up old man
 1590,Clint Barton,Nobody would know
-1591,Clint Barton, Nobody
-1592,Clint Barton,"  The last I saw him, when Ultron was sitting on him"
-1593,Clint Barton, Uh
+1591,Clint Barton,Nobody
+1592,Clint Barton,"The last I saw him, when Ultron was sitting on him"
+1593,Clint Barton,Uh
 1594,Clint Barton,"yeah, he'll be missed, that quick little bastard"
-1595,Clint Barton, I miss him already
+1595,Clint Barton,I miss him already
 1596,Soldier,Hold your fire
 1597,Steve Rogers,Romanoff
 1598,Natasha Romanoff,Thanks
 1599,FRIDAY,The antigravs are rigged to flip
-1600,FRIDAY," Touch 'em, they'll go full reverse thrust"
-1601,FRIDAY, The city's not coming down slow
+1600,FRIDAY,"Touch 'em, they'll go full reverse thrust"
+1601,FRIDAY,The city's not coming down slow
 1602,Tony Stark,The spire's Vibranium
-1603,Tony Stark, If I get Thor to hit it
+1603,Tony Stark,If I get Thor to hit it
 1604,FRIDAY,"It'll crack, but that's not enough, the impact would still be devastating"
 1605,Tony Stark,"Maybe if we cap the other end, keep the atomic action doubling back"
 1606,FRIDAY,"That could vaporize the city, and everyone on it"
 1607,Steve Rogers,The next wave's gonna hit any minute
-1608,Steve Rogers," What have you got, Stark"
+1608,Steve Rogers,"What have you got, Stark"
 1609,Tony Stark,"Well, nothing great"
-1610,Tony Stark, Maybe a way to blow up the city
-1611,Tony Stark, That'll keep it from impacting the surface if you guys can get clear
+1610,Tony Stark,Maybe a way to blow up the city
+1611,Tony Stark,That'll keep it from impacting the surface if you guys can get clear
 1612,Steve Rogers,"I asked for a solution, not an escape plan"
 1613,Tony Stark,Impact radius is getting bigger every second
-1614,Tony Stark, We're going to have to make a choice
+1614,Tony Stark,We're going to have to make a choice
 1615,Natasha Romanoff,"Cap, these people are going nowhere"
-1616,Natasha Romanoff, If Stark finds a way to blow this rock
+1616,Natasha Romanoff,If Stark finds a way to blow this rock
 1617,Steve Rogers,Not 'til everyone's safe
 1618,Natasha Romanoff,Everyone up here versus everyone down there
-1619,Natasha Romanoff, There's no math there
+1619,Natasha Romanoff,There's no math there
 1620,Steve Rogers,I'm not leaving this rock with one civilian on it
 1621,Natasha Romanoff,I didn't say we should leave
-1622,Natasha Romanoff,  There's worse ways to go
-1623,Natasha Romanoff, Where else am I gonna get a view like this
+1622,Natasha Romanoff,There's worse ways to go
+1623,Natasha Romanoff,Where else am I gonna get a view like this
 1624,Nick Fury,"Glad you like the view, Romanoff"
-1625,Nick Fury, It's about to get better
-1626,Nick Fury,"  Nice, right"
-1627,Nick Fury, I pulled her out of mothballs with a couple of old friends
-1628,Nick Fury," She's dusty, but she'll do"
+1625,Nick Fury,It's about to get better
+1626,Nick Fury,"Nice, right"
+1627,Nick Fury,I pulled her out of mothballs with a couple of old friends
+1628,Nick Fury,"She's dusty, but she'll do"
 1629,Steve Rogers,"Fury, you son of a bitch"
 1630,Nick Fury,Oooh
-1631,Nick Fury, You kiss your mother with that mouth
+1631,Nick Fury,You kiss your mother with that mouth
 1632,Maria Hill,Altitude is eighteen thousand and climbing
 1633,Specialist Cameron Klein,Lifeboats secure to deploy
-1634,Specialist Cameron Klein," Disengage in three, two"
-1635,Specialist Cameron Klein, take 'em out
+1634,Specialist Cameron Klein,"Disengage in three, two"
+1635,Specialist Cameron Klein,take 'em out
 1636,Pietro Maximoff,This is SHIELD
 1637,Steve Rogers,This is what SHIELD's supposed to be
 1638,Pietro Maximoff,This is not so bad
@@ -1643,205 +1643,205 @@
 1641,Nick Fury,Show 'em what we got
 1642,Maria Hill,You're up
 1643,James Rhodes,Yes
-1644,James Rhodes, Now this is gonna be a good story
+1644,James Rhodes,Now this is gonna be a good story
 1645,Tony Stark,Yep
-1646,Tony Stark, If you live to tell it
+1646,Tony Stark,If you live to tell it
 1647,James Rhodes,You think I can't hold my own
 1648,Tony Stark,"We get through this, I'll hold your own"
 1649,James Rhodes,You had to make it weird
 1650,Clint Barton,"Alright, let's load 'em up"
-1651,Clint Barton," Alright, here we go"
-1652,Clint Barton," Here we go, let's move"
-1653,Clint Barton, Let's go everyone
+1651,Clint Barton,"Alright, here we go"
+1652,Clint Barton,"Here we go, let's move"
+1653,Clint Barton,Let's go everyone
 1654,Specialist Cameron Klein,Number six boat is topped and locked
-1655,Specialist Cameron Klein," Or, uh, or stocked, topped"
-1656,Specialist Cameron Klein, It
-1657,Specialist Cameron Klein," it's, uh, full of people"
+1655,Specialist Cameron Klein,"Or, uh, or stocked, topped"
+1656,Specialist Cameron Klein,It
+1657,Specialist Cameron Klein,"it's, uh, full of people"
 1658,Maria Hill,Incoming
 1659,Specialist Cameron Klein,"Oh, God"
 1660,Ultron,You think you're saving anyone
-1661,Ultron, I turn that key and drop this rock a little early and it's still billions dead
-1662,Ultron, Even you can't stop that
+1661,Ultron,I turn that key and drop this rock a little early and it's still billions dead
+1662,Ultron,Even you can't stop that
 1663,Thor,"I am Thor, son of Odin, and as long as there is life in my breast, I am"
 1664,Thor,running out of things to say
-1665,Thor, Are you ready
+1665,Thor,Are you ready
 1666,Vision,It's terribly well balanced
 1667,Thor,"Well, if there's too much weight, you lose power on the swing, so"
 1668,Tony Stark,I got it
-1669,Tony Stark, Create a heat seal
-1670,Tony Stark, I can
+1669,Tony Stark,Create a heat seal
+1670,Tony Stark,I can
 1671,Tony Stark,I can supercharge the spire from below
 1672,FRIDAY,Running numbers
-1673,FRIDAY,  A heat seal could work with enough power
+1673,FRIDAY,A heat seal could work with enough power
 1674,Tony Stark,"Thor, I got a plan"
 1675,Thor,We're out of time
-1676,Thor, They're coming for the core
+1676,Thor,They're coming for the core
 1677,Tony Stark,"Rhodey, get the rest of the people on board that carrier"
 1678,James Rhodes,On it
 1679,Tony Stark,"Avengers, time to work for a living"
 1680,Pietro Maximoff,You good
 1681,Wanda Maximoff,Yeah
 1682,Tony Stark,Romanoff
-1683,Tony Stark, You and Banner better not be playing hide the zucchini
+1683,Tony Stark,You and Banner better not be playing hide the zucchini
 1684,Natasha Romanoff,"Relax, Shellhead"
-1685,Natasha Romanoff, Not all of us can fly
-1686,Natasha Romanoff,  What's the drill
+1685,Natasha Romanoff,Not all of us can fly
+1686,Natasha Romanoff,What's the drill
 1687,Tony Stark,This is the drill
-1688,Tony Stark," If Ultron gets a hand on the core, we lose"
+1688,Tony Stark,"If Ultron gets a hand on the core, we lose"
 1689,Thor,Is that the best you can do
 1690,Steve Rogers,You had to ask
 1691,Ultron,This is the best I can do
-1692,Ultron, This is exactly what I wanted
-1693,Ultron," All of you, against all of me"
-1694,Ultron, How could you possibly hope to stop me
+1692,Ultron,This is exactly what I wanted
+1693,Ultron,"All of you, against all of me"
+1694,Ultron,How could you possibly hope to stop me
 1695,Tony Stark,"Well, like the old man said"
-1696,Tony Stark, Together
+1696,Tony Stark,Together
 1697,Thor,They'll try to leave the city
 1698,Tony Stark,"We can't let 'em, not even one"
-1699,Tony Stark, Rhodey
+1699,Tony Stark,Rhodey
 1700,James Rhodes,I'm on it
-1701,James Rhodes,"  Oh, no, I didn't say you could leave"
-1702,James Rhodes," War Machine, comin' at you, right  Okay, what"
+1701,James Rhodes,"Oh, no, I didn't say you could leave"
+1702,James Rhodes,"War Machine, comin' at you, right  Okay, what"
 1703,Steve Rogers,We gotta move out
-1704,Steve Rogers, Even I can tell the air is getting thin
-1705,Steve Rogers," You guys get to the boats, I'll sweep for stragglers, be right behind you"
+1704,Steve Rogers,Even I can tell the air is getting thin
+1705,Steve Rogers,"You guys get to the boats, I'll sweep for stragglers, be right behind you"
 1706,Clint Barton,What about the core
 1707,Wanda Maximoff,I'll protect it
-1708,Wanda Maximoff, It's my job
-1709,Wanda Maximoff,  Get the people on the boats
+1708,Wanda Maximoff,It's my job
+1709,Wanda Maximoff,Get the people on the boats
 1710,Pietro Maximoff,I'm not going to leave you here
 1711,Wanda Maximoff,I can handle this
-1712,Wanda Maximoff,"  Come back for me when everyone else is off, not before"
+1712,Wanda Maximoff,"Come back for me when everyone else is off, not before"
 1713,Pietro Maximoff,Hmm
 1714,Wanda Maximoff,You understand
 1715,Pietro Maximoff,"You know, I'm twelve minutes older than you"
 1716,Wanda Maximoff,Go
 1717,FRIDAY,"Boss, power levels are way below opt"
 1718,Tony Stark,Reroute everything
-1719,Tony Stark, We get one shot at this
+1719,Tony Stark,We get one shot at this
 1720,Clint Barton,I know what I need to do
-1721,Clint Barton, The dining room
-1722,Clint Barton," If I knock out that east wall, it'll make a nice work space for Laura, huh"
-1723,Clint Barton," Put up some baffling, she can't hear the kids running around, what do you think"
+1721,Clint Barton,The dining room
+1722,Clint Barton,"If I knock out that east wall, it'll make a nice work space for Laura, huh"
+1723,Clint Barton,"Put up some baffling, she can't hear the kids running around, what do you think"
 1724,Natasha Romanoff,You guys always eat in the kitchen anyway
 1725,Clint Barton,No one eats in a dining room
-1726,Clint Barton,  We don't have a lot of time
+1726,Clint Barton,We don't have a lot of time
 1727,Natasha Romanoff,So get your ass on a boat
-1728,Natasha Romanoff,"  Hey, big guy"
-1729,Natasha Romanoff, Sun's getting real low
+1728,Natasha Romanoff,"Hey, big guy"
+1729,Natasha Romanoff,Sun's getting real low
 1730,Zrinka,Costel
-1731,Zrinka, We were in the market
-1732,Zrinka, Costel
+1731,Zrinka,We were in the market
+1732,Zrinka,Costel
 1733,Zrinka,
 1734,Tony Stark,"Thor, I'm gonna need you back in the church"
 1735,Thor,Is this the last of them
 1736,Steve Rogers,Yeah
-1737,Steve Rogers, Everyone else is on the carrier
+1737,Steve Rogers,Everyone else is on the carrier
 1738,Tony Stark,"You know, if this works, we maybe don't walk away"
 1739,Thor,Maybe not
 1740,Ultron,"I got no strings, so I have fun"
-1741,Ultron, I'm not tied up to anyone
+1741,Ultron,I'm not tied up to anyone
 1742,Pietro Maximoff,You didn't see that coming
 1743,Ultron,"Oh, for God's sake"
 1744,Clint Barton,"No, no"
-1745,Clint Barton, I'm fine
-1746,Clint Barton,"  Oh, it's been a long day"
+1745,Clint Barton,I'm fine
+1746,Clint Barton,"Oh, it's been a long day"
 1747,Ultron,Wanda
-1748,Ultron," If you stay here, you'll die"
+1748,Ultron,"If you stay here, you'll die"
 1749,Wanda Maximoff,I just did
-1750,Wanda Maximoff, Do you know how it felt
-1751,Wanda Maximoff,  It felt like that
+1750,Wanda Maximoff,Do you know how it felt
+1751,Wanda Maximoff,It felt like that
 1752,Tony Stark,"Thor, on my mark"
-1753,Tony Stark,  Now
+1753,Tony Stark,Now
 1754,Natasha Romanoff,"Hey, big guy"
-1755,Natasha Romanoff," We did it, the job's finished"
-1756,Natasha Romanoff," Now I need you to turn this bird around, okay"
-1757,Natasha Romanoff," We can't track you in stealth mode, so help me out"
+1755,Natasha Romanoff,"We did it, the job's finished"
+1756,Natasha Romanoff,"Now I need you to turn this bird around, okay"
+1757,Natasha Romanoff,"We can't track you in stealth mode, so help me out"
 1758,Vision,You're afraid
 1759,Ultron,Of you
 1760,Vision,Of death
-1761,Vision, You're the last one
+1761,Vision,You're the last one
 1762,Ultron,You were supposed to be the last
-1763,Ultron," Stark asked for a savior, and settled for a slave"
+1763,Ultron,"Stark asked for a savior, and settled for a slave"
 1764,Vision,I suppose we're both disappointments
 1765,Ultron,I suppose we are
 1766,Vision,Humans are odd
-1767,Vision," They think order and chaos are somehow opposites, and try to control what won't be"
-1768,Vision, But there is grace in their failings
-1769,Vision, I think you missed that
+1767,Vision,"They think order and chaos are somehow opposites, and try to control what won't be"
+1768,Vision,But there is grace in their failings
+1769,Vision,I think you missed that
 1770,Ultron,They're doomed
 1771,Vision,Yes
-1772,Vision, But a thing isn't beautiful because it lasts
-1773,Vision, It's a privilege to be among them
+1772,Vision,But a thing isn't beautiful because it lasts
+1773,Vision,It's a privilege to be among them
 1774,Ultron,You're unbearably naive
 1775,Vision,"Well, I was born yesterday"
 1776,Laura Barton,Say hi to Auntie Nat
 1777,Natasha Romanoff,Fat
 1778,Nick Fury,"One of our tech boys flagged this, splashed down in the Banda Sea"
-1779,Nick Fury, Could be the Quinjet
-1780,Nick Fury," But with Stark's stealth tech, we still can't track the damn thing"
+1779,Nick Fury,Could be the Quinjet
+1780,Nick Fury,"But with Stark's stealth tech, we still can't track the damn thing"
 1781,Natasha Romanoff,Right
 1782,Nick Fury,Probably jumped out and swam to Fiji
-1783,Nick Fury, He'll send a postcard
+1783,Nick Fury,He'll send a postcard
 1784,Natasha Romanoff,Wish you were here
-1785,Natasha Romanoff," You sent me to recruit him, way back when"
-1786,Natasha Romanoff, Did you know then what was going to happen
+1785,Natasha Romanoff,"You sent me to recruit him, way back when"
+1786,Natasha Romanoff,Did you know then what was going to happen
 1787,Nick Fury,You never know
-1788,Nick Fury, You hope for the best and make do with what you get
-1789,Nick Fury, I got a great team
+1788,Nick Fury,You hope for the best and make do with what you get
+1789,Nick Fury,I got a great team
 1790,Natasha Romanoff,Nothing lasts forever
 1791,Nick Fury,"Trouble, Miss Romanoff"
-1792,Nick Fury," No matter who wins or loses, trouble still comes around"
+1792,Nick Fury,"No matter who wins or loses, trouble still comes around"
 1793,Steve Rogers,The rules have changed
 1794,Tony Stark,We're dealing with something new
 1795,Steve Rogers,"Well, the Vision's artificial intelligence"
 1796,Tony Stark,A machine
 1797,Steve Rogers,So it doesn't count
 1798,Tony Stark,No
-1799,Tony Stark, It's not like a person lifting the hammer
+1799,Tony Stark,It's not like a person lifting the hammer
 1800,Steve Rogers,Right
-1801,Steve Rogers, Different rules for us
+1801,Steve Rogers,Different rules for us
 1802,Tony Stark,"Nice guy, but artificial"
 1803,Steve Rogers,Thank you
 1804,Thor,"If he can wield the hammer, he can keep the Mind Stone"
-1805,Thor," It's safe with the Vision and these days, safe is in short supply"
+1805,Thor,"It's safe with the Vision and these days, safe is in short supply"
 1806,Steve Rogers,But if you put the hammer in an elevator
 1807,Tony Stark,It would still go up
 1808,Steve Rogers,Elevator's not worthy
 1809,Thor,I'm going to miss these little talks of ours
 1810,Tony Stark,"Well, not if you don't leave"
 1811,Thor,I have no choice
-1812,Thor, The Mind Stone is the fourth of the Infinity Stones to show up in the last few years
-1813,Thor, That's not a coincidence
-1814,Thor, Someone has been playing an intricate game and has made pawns of us
-1815,Thor, But once all these pieces are in position
+1812,Thor,The Mind Stone is the fourth of the Infinity Stones to show up in the last few years
+1813,Thor,That's not a coincidence
+1814,Thor,Someone has been playing an intricate game and has made pawns of us
+1815,Thor,But once all these pieces are in position
 1816,Tony Stark,Triple Yahtzee
 1817,Steve Rogers,You think you can find out what's coming
 1818,Thor,I do
-1819,Thor,"  Besides this one, there's nothing that can't be explained"
+1819,Thor,"Besides this one, there's nothing that can't be explained"
 1820,Tony Stark,That man has no regard for lawn maintenance
-1821,Tony Stark, I'm gonna miss him though
-1822,Tony Stark, And you're gonna miss me
-1823,Tony Stark, There's gonna be a lot of manful tears
+1821,Tony Stark,I'm gonna miss him though
+1822,Tony Stark,And you're gonna miss me
+1823,Tony Stark,There's gonna be a lot of manful tears
 1824,Steve Rogers,"I will miss you, Tony"
 1825,Tony Stark,Yeah
-1826,Tony Stark," Well, it's time for me to tap out"
-1827,Tony Stark," Maybe I should take a page out of Barton's book and build Pepper a farm, hope nobody blows it up"
+1826,Tony Stark,"Well, it's time for me to tap out"
+1827,Tony Stark,"Maybe I should take a page out of Barton's book and build Pepper a farm, hope nobody blows it up"
 1828,Steve Rogers,The simple life
 1829,Tony Stark,You'll get there one day
 1830,Steve Rogers,"I don't know, family, stability"
-1831,Steve Rogers, The guy who wanted all that went in the ice seventyfive years ago
-1832,Steve Rogers, I think someone else came out
+1831,Steve Rogers,The guy who wanted all that went in the ice seventyfive years ago
+1832,Steve Rogers,I think someone else came out
 1833,Tony Stark,You alright
 1834,Steve Rogers,I'm home
-1835,Steve Rogers,"  You want to keep staring at the wall, or do you want to go to work"
-1836,Steve Rogers," I mean, it's a pretty interesting wall"
+1835,Steve Rogers,"You want to keep staring at the wall, or do you want to go to work"
+1836,Steve Rogers,"I mean, it's a pretty interesting wall"
 1837,Natasha Romanoff,I thought you and Tony were still gazing into each other's eyes
-1838,Natasha Romanoff, How do we look
+1838,Natasha Romanoff,How do we look
 1839,Steve Rogers,"Well, we're not the '27 Yankees"
 1840,Natasha Romanoff,We've got some hitters
 1841,Steve Rogers,They're good
-1842,Steve Rogers, They're not a team
+1842,Steve Rogers,They're not a team
 1843,Natasha Romanoff,Let's beat 'em into shape
 1844,Steve Rogers,Avengers
 1845,Steve Rogers,
